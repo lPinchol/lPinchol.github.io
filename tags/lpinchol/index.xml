@@ -6,8 +6,25 @@
     <description>Recent content in Lpinchol on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2016 17:06:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Apr 2016 22:33:11 +0200</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/tags/lpinchol/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proyecto Codigos [0.0.2a]</title>
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.2/</link>
+      <pubDate>Mon, 11 Apr 2016 22:33:11 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.2/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Completado la alpha 0.0.2a con la siguiente solucion:
+&amp;gt; [x] Template card bg 2&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/CorazonesBG2_01.png&#34; alt=&#34;log&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>C#: UTILIZAR MEGA API CLIENT</title>
@@ -188,7 +205,7 @@ miForm2.Show()
     </item>
     
     <item>
-      <title>Protecto Codigos [0.0.1a]</title>
+      <title>Proyecto Codigos [0.0.1a]</title>
       <link>http://lpinchol.github.io/post/Protecto-Codigos-0-0-1/</link>
       <pubDate>Mon, 11 Apr 2016 14:18:40 +0200</pubDate>
       
