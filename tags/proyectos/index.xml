@@ -6,8 +6,27 @@
     <description>Recent content in Proyectos on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2016 03:29:54 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2016 14:47:53 +0200</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/tags/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proyecto Codigos [0.0.4a]</title>
+      <link>http://lpinchol.github.io/post/Proyecto-Cogidos-0.0.4/</link>
+      <pubDate>Fri, 15 Apr 2016 14:47:53 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Cogidos-0.0.4/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Completado la alpha 0.0.4a con la siguiente solucion:&lt;/p&gt;
+
+&lt;p&gt;Build and integrated GUI for text res and borders.
+&amp;gt; [x] Build
+&amp;gt; [x] Integration
+&amp;gt; [x] Test&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Proyecto Codigos [0.0.3a]</title>
