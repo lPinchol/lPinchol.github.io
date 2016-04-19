@@ -6,8 +6,23 @@
     <description>Recent content in Proyectos on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Apr 2016 14:47:53 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2016 14:26:22 +0200</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/categories/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proyecto Codigos [0.0.5a]</title>
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.5/</link>
+      <pubDate>Tue, 19 Apr 2016 14:26:22 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.5/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Completado la alpha 0.0.5a con la siguiente solucion:
+&amp;gt; [x] Basic Funcionality&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Proyecto Codigos [0.0.4a]</title>
