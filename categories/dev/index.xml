@@ -6,8 +6,30 @@
     <description>Recent content in Dev on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2016 14:26:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 01:05:13 +0200</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proyecto Codigos [0.0.6a]</title>
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.6/</link>
+      <pubDate>Wed, 20 Apr 2016 01:05:13 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.6/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Completado la alpha 0.0.6a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] [0.0.6-0]Animation logo&lt;/p&gt;
+
+&lt;p&gt;[x] [0.0.6-1]Load source sound&lt;/p&gt;
+
+&lt;p&gt;[x] [0.0.6-2]Click screen&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Proyecto Codigos [0.0.5a]</title>
@@ -18,8 +40,11 @@
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Completado la alpha 0.0.5a con la siguiente solucion:
-&amp;gt; [x] Basic Funcionality&lt;/p&gt;
+&lt;p&gt;Completado la alpha 0.0.5a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Basic Funcionality&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -35,10 +60,15 @@
 &lt;blockquote&gt;
 &lt;p&gt;Completado la alpha 0.0.4a con la siguiente solucion:&lt;/p&gt;
 
-&lt;p&gt;Build and integrated GUI for text res and borders.
-&amp;gt; [x] Build
-&amp;gt; [x] Integration
-&amp;gt; [x] Test&lt;/p&gt;
+&lt;p&gt;Build and integrated GUI for text res and borders.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Build&lt;/p&gt;
+
+&lt;p&gt;[x] Integration&lt;/p&gt;
+
+&lt;p&gt;[x] Test&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -52,8 +82,11 @@
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Completado la alpha 0.0.3a con la siguiente solucion:
-&amp;gt; [x] Template Content 1&lt;/p&gt;
+&lt;p&gt;Completado la alpha 0.0.3a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Template Content 1&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -101,8 +134,11 @@
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Completado la alpha 0.0.2a con la siguiente solucion:
-&amp;gt; [x] Template card bg 2&lt;/p&gt;
+&lt;p&gt;Completado la alpha 0.0.2a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Template card bg 2&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/CorazonesBG2_01.png&#34; alt=&#34;log&#34; /&gt;&lt;/p&gt;
@@ -302,15 +338,23 @@ miForm2.Show()
 &lt;p&gt;Ya he empezado con el proyecto codigos y aqui dejo los iconos de las barajas.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Hexa [C#]&lt;/li&gt;
-&lt;li&gt;Fuerza [XCODE]&lt;/li&gt;
-&lt;li&gt;Rag [C++]&lt;/li&gt;
-&lt;li&gt;Conect [Markdown]&lt;/li&gt;
-&lt;li&gt;Kan [HTML]&lt;/li&gt;
-&lt;li&gt;Picas [JS]&lt;/li&gt;
-&lt;li&gt;Corazones [GO]&lt;/li&gt;
-&lt;li&gt;Treboles [PHP]&lt;/li&gt;
-&lt;li&gt;Rombo [css]&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hexa [C#]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fuerza [XCODE]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rag [C++]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Conect [Markdown]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kan [HTML]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Picas [JS]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Corazones [GO]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Treboles [PHP]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rombo [css]&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Seguidamente las imagenes de los iconos&lt;/p&gt;

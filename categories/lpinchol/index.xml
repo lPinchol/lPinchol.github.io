@@ -6,8 +6,48 @@
     <description>Recent content in Lpinchol on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Apr 2016 14:33:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 11:55:49 +0200</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/categories/lpinchol/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pintura Del Dia -20-04-016-</title>
+      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-20-04-2016/</link>
+      <pubDate>Wed, 20 Apr 2016 11:55:49 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-20-04-2016/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-imagen-del-dia-18-04-2016-center-br:7f388af56fb84923fac390bea4f78b33&#34;&gt;&lt;center&gt;Imagen del dia [18.04.2016]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/12.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;center&gt;Model 3D con su malla en Zbush.&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proyecto Codigos [0.0.6a]</title>
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.6/</link>
+      <pubDate>Wed, 20 Apr 2016 01:05:13 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.6/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Completado la alpha 0.0.6a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] [0.0.6-0]Animation logo&lt;/p&gt;
+
+&lt;p&gt;[x] [0.0.6-1]Load source sound&lt;/p&gt;
+
+&lt;p&gt;[x] [0.0.6-2]Click screen&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Pintura Del Dia -19-04-016-</title>
@@ -58,8 +98,11 @@
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Completado la alpha 0.0.5a con la siguiente solucion:
-&amp;gt; [x] Basic Funcionality&lt;/p&gt;
+&lt;p&gt;Completado la alpha 0.0.5a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Basic Funcionality&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -179,10 +222,15 @@
 &lt;blockquote&gt;
 &lt;p&gt;Completado la alpha 0.0.4a con la siguiente solucion:&lt;/p&gt;
 
-&lt;p&gt;Build and integrated GUI for text res and borders.
-&amp;gt; [x] Build
-&amp;gt; [x] Integration
-&amp;gt; [x] Test&lt;/p&gt;
+&lt;p&gt;Build and integrated GUI for text res and borders.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Build&lt;/p&gt;
+
+&lt;p&gt;[x] Integration&lt;/p&gt;
+
+&lt;p&gt;[x] Test&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -252,8 +300,11 @@ Odin Sphere: Leifthrasir se lanzará para PlayStation 4, PlayStation 3 y PS Vita
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Completado la alpha 0.0.3a con la siguiente solucion:
-&amp;gt; [x] Template Content 1&lt;/p&gt;
+&lt;p&gt;Completado la alpha 0.0.3a con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Template Content 1&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -298,42 +349,6 @@ Odin Sphere: Leifthrasir se lanzará para PlayStation 4, PlayStation 3 y PS Vita
 
 &lt;p&gt;Kangokutou Mary Skelter se lanzará el 13 de octubre en las PSVita japonesas.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pintura Del Dia -13-04-2016-</title>
-      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-13-04-2016/</link>
-      <pubDate>Wed, 13 Apr 2016 13:58:47 +0200</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-13-04-2016/</guid>
-      <description>
-
-&lt;h1 id=&#34;center-imagen-del-dia-13-04-2016-center-br:49805b47ac7893c3a5e240dc9332f82d&#34;&gt;&lt;center&gt;Imagen del dia [13.04.2016]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/06.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;center&gt;Un demonio con una espada, alejada de la realidad, este arte es de Zenoris&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pintura Del Dia -12-04-2016-</title>
-      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-12-04-2016/</link>
-      <pubDate>Tue, 12 Apr 2016 15:31:23 +0200</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-12-04-2016/</guid>
-      <description>
-
-&lt;h1 id=&#34;center-imagen-del-dia-12-04-2016-center-br:26f3dd6a26488aaed9252f6f865346d0&#34;&gt;&lt;center&gt;Imagen del dia [12.04.2016]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;center&gt;Un model sheet de una magita para un videojuego (Privado)&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
