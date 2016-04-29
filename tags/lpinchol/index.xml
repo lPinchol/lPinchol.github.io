@@ -6,8 +6,26 @@
     <description>Recent content in Lpinchol on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 12:09:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Apr 2016 22:58:01 +0200</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/tags/lpinchol/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Proyecto Codigos [0.0.19a]</title>
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.19/</link>
+      <pubDate>Fri, 29 Apr 2016 22:58:01 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.19/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Completado la alpha [0.0.19a] con la siguiente solucion:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;[x] Build Alpha Copilation&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Proyecto Codigos [0.0.11a] y [0.0.12a]</title>
@@ -432,59 +450,6 @@ private void subirArchivoAMega() {
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/Dev/megaapiclient_upload_file.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VB.NET Variables entre formularios</title>
-      <link>http://lpinchol.github.io/post/VBNET-Variables-entre-formularios/</link>
-      <pubDate>Mon, 11 Apr 2016 16:55:01 +0200</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/VBNET-Variables-entre-formularios/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/Dev/vb_net.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Como en cualquier lenguaje vb.net tiene sus constructores para poder pasar variables entre formularios. Aquí dejo un pequeño ejemplo de como puede crearse un constructor:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-C#&#34;&gt;Public Class Form2
-.
-.
-.
-    Private texto As String
-    Private numero As Integer
-
-
-    &#39; Constructor Form2
-    Public Sub New (ByVal miTexto As String, ByVal miNumero As Integer)
-
-        Me.texto = miTexto
-        Me.numero = miNumero
-
-    End Sub
-.
-.
-.
-
-End Class
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Y la llamada pasadole los parámetros se realiza de esta manera:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-C#&#34;&gt;&#39; Instancia
-Dim miForm2 As New Form2(&amp;quot;Este es el texto que paso&amp;quot;, 2)
-
-&#39; Mostramos el form2
-miForm2.Show()
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
