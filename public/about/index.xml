@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on lPinchol Moon&#39;s Blog</title>
-    <link>http://lpinchol.github.io/about/</link>
+    <link>https://MoonlPinchol.gitlab.io/about/</link>
     <description>Recent content in Abouts on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://lpinchol.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://MoonlPinchol.gitlab.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://lpinchol.github.io/about/</link>
+      <link>https://moonlpinchol.gitlab.io/about/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lpinchol.github.io/about/</guid>
+      <guid>https://moonlpinchol.gitlab.io/about/</guid>
       <description>
 
 &lt;h3 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h3&gt;

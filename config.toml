@@ -1,0 +1,53 @@
+baseurl = "https://moonlpinchol.gitlab.io"
+languageCode = "en-us"
+title = "lPinchol Moon's Blog"
+theme = "hugo-type-theme"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "lpinchol"
+# Add your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Posts per page
+paginate = 10
+
+
+[params]
+	author = "lPinchol, Moon"
+	description = "un blog sobre mi, juegos, desarrollo y anime"
+	# The keywords will be added as a meta tag. Delimit them with a comma.
+	keywords = "Moon,Pincho,Dev"
+	# Either show custom avatar on the top
+	# left by adding the filename in below
+	avatar = "img/avatar.png"
+	# or use Gravatar by adding your email address to generate a unique avatar
+	gravatar = ""
+
+	headerText = "un blog sobre mi, juegos, desarrollo y anime"
+	# To add a header background to the main site, save your image under static/img/.
+	# If now image path is provided, a orange background will be shown instead.
+	headerImage = "bg.png"
+	copyright = "© lPinchol Moon.<br>Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)"
+
+
+	[params.social]
+		# Insert your accout name and the icon will be shown in the right menu
+		rss = true
+		homepage = true
+		email = "moon@lpinchol.xyz"
+		behance = ""
+		bitbucket  ="lPinchol"
+		dribbble = ""
+		facebook = ""
+		flickr = ""
+		github = "lPinchol"
+		googleplus = ""
+		instagram = ""
+		linkedin = ""
+		pinterest = ""
+		reddit = ""
+		soundcloud = ""
+		stackexchange = ""
+		steam = ""
+		tumblr = ""
+		twitter = ""
+		wordpress = ""
+		youtube = ""
