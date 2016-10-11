@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>About-rsses on lPinchol Moon&#39;s Blog</title>
     <link>http://lpinchol.github.io/about/index.xml</link>
     <description>Recent content in About-rsses on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+=======
+    <title>Abouts on lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/about/</link>
+    <description>Recent content in Abouts on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403
     <lastBuildDate>Wed, 14 Sep 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     

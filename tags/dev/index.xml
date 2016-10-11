@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD:tags/dev/index.xml
     <title>lPinchol Moon&#39;s Blog</title>
     <link>http://lpinchol.github.io/tags/dev/index.xml</link>
     <description>Recent content on lPinchol Moon&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+=======
+    <title>Dev on lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/tags/dev/</link>
+    <description>Recent content in Dev on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Apr 2016 22:58:01 +0200</lastBuildDate>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
     <atom:link href="http://lpinchol.github.io/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Proyecto Codigos [0.0.19a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Fri, 29 Apr 2016 22:58:01 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.19/</link>
+      <pubDate>Fri, 29 Apr 2016 22:58:01 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.19/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -29,10 +45,17 @@
     
     <item>
       <title>Proyecto Codigos [0.0.11a] y [0.0.12a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.11-y-0/</link>
       <pubDate>Wed, 27 Apr 2016 12:09:56 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.11-y-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.11-y-0.0.12/</link>
+      <pubDate>Wed, 27 Apr 2016 12:09:56 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.11-y-0.0.12/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -49,10 +72,17 @@
     
     <item>
       <title>Proyecto Codigos [0.0.9a] y [0.0.10a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Tue, 26 Apr 2016 11:32:31 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.10/</link>
+      <pubDate>Tue, 26 Apr 2016 11:32:31 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.10/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -69,10 +99,17 @@
     
     <item>
       <title>Proyecto Codigos [0.0.7a] y [0.0.8a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.7-y-0/</link>
       <pubDate>Mon, 25 Apr 2016 13:58:09 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.7-y-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.7-y-0.0.8/</link>
+      <pubDate>Mon, 25 Apr 2016 13:58:09 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.7-y-0.0.8/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -97,19 +134,33 @@
     
     <item>
       <title>Proyecto Codigos 0.0.4</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Mon, 25 Apr 2016 13:57:35 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.4/</link>
+      <pubDate>Mon, 25 Apr 2016 13:57:35 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.4/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description></description>
     </item>
     
     <item>
       <title>Proyecto Codigos [0.0.6a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Wed, 20 Apr 2016 01:05:13 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.6/</link>
+      <pubDate>Wed, 20 Apr 2016 01:05:13 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.6/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -128,10 +179,17 @@
     
     <item>
       <title>Proyecto Codigos [0.0.5a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Tue, 19 Apr 2016 14:26:22 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.5/</link>
+      <pubDate>Tue, 19 Apr 2016 14:26:22 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.5/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -146,10 +204,17 @@
     
     <item>
       <title>Proyecto Codigos [0.0.3a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Thu, 14 Apr 2016 03:29:54 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.3/</link>
+      <pubDate>Thu, 14 Apr 2016 03:29:54 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.3/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -198,10 +263,17 @@
     
     <item>
       <title>Proyecto Codigos [0.0.2a]</title>
+<<<<<<< HEAD:tags/dev/index.xml
       <link>http://lpinchol.github.io/post/Proyecto-Codigos-0/</link>
       <pubDate>Mon, 11 Apr 2016 22:33:11 +0200</pubDate>
       
       <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0/</guid>
+=======
+      <link>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.2/</link>
+      <pubDate>Mon, 11 Apr 2016 22:33:11 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Proyecto-Codigos-0.0.2/</guid>
+>>>>>>> 3ed56fd2d3f647b8e6927e6647edcda5da853403:tags/dev/index.xml
       <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/proyectocodigo/Logo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
