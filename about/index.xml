@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About-rsses on lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/about/index.xml</link>
+    <description>Recent content in About-rsses on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <lastBuildDate>Wed, 14 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://lpinchol.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://lpinchol.github.io/about/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lpinchol.github.io/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;x&#34;&gt;x&lt;/h3&gt;
+
+&lt;h3 id=&#34;x-1&#34;&gt;x&lt;/h3&gt;
+
+&lt;p&gt;- Moon Pincho&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

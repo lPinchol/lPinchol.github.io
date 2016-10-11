@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>C#: UTILIZAR MEGA API CLIENT&middot; lPinchol Moon&#39;s Blog</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="lPinchol, Moon">
+	<meta name="description" content="un blog sobre mi, juegos, desarrollo y anime">
+	<meta name="keywords" content="Moon,Pincho,Dev">
+	<meta name="generator" content="Hugo 0.17" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://lpinchol.github.io/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://lpinchol.github.io/favicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <header class="site-header">
+	<div class="branding">
+		<a href="http://lpinchol.github.io/">
+		<img class="avatar" src="http://lpinchol.github.io/img/avatar.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://lpinchol.github.io/">lPinchol Moon&#39;s Blog</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+	      	<li><a href="/about/"> About </a></li>
+
+	      	<li>
+	<a href="http://lpinchol.github.io/" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li>
+	<a href="http://lpinchol.github.io/index.xml" title="Subcribe">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li>
+	<a href="mailto:moon@lpinchol.xyz" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="https://bitbucket.org/lPinchol" title="Bitbucket">
+		<i class="fa fa-fw fa-bitbucket"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://github.com/lPinchol" title="GitHub">
+		<i class="fa fa-fw fa-github"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    </ul>
+	</nav>
+</header>
+
+
+    <div class="content">
+    <article class="feature-image">
+		<header style="background-image: url('http://lpinchol.github.io/img/avatar.png')">
+			<h1 class="title">C#: UTILIZAR MEGA API CLIENT</h1>
+		</header>
+
+	<section class="post-content">
+		<p><center><img src="/img/Dev/mega_icono1.png" alt="001" /></center></p>
+
+<blockquote>
+<p>Mega es el sucesor del servicio de archivos en la nube Megaupload, para aquellos a los que no les suena ninguno de los dos es como un dropbox, un servicio gratuito o de pago dependiendo del espacio que utilizamos para poder subir nuestros archivos. En mi opinión es un servicio increíble que nos permite almacenar copias de seguridad de archivos en la nube y/o compartirlos.</p>
+
+<p>En esta entrada mostraré como desde un proyecto en .Net en este caso con C# podéis subir archivos a mega. Además de subir archivos también podréis eliminar, modificar, mover y varias funciones más. Para comenzar tendréis que incorporar a vuestro proyecto varias referencias, si lo realizáis desde el administrador de paquetes nuget de Visual Studio ahorraréis tiempo y faena. Para abrir el administrador de paquetes nuget vamos a la barra principal de arriba y seleccionamos proyecto y administrar paquetes nuget. En la caja de búsqueda ponéis “mega.co.nz” sin comillas, y debe aparecer una librería que hará de cliente contra los servidores de mega, la seleccionáis y le dais a instalar. Además instalará automáticamente otra llamada Newtonsoft.Json que utilizará la librería mega para realizar algunas acciones.</p>
+
+<p>Tenemos el proyecto listo para empezar a utilizar los métodos y funciones que nos facilita mega en la clase que queramos, con ello vamos a la clase desde la que queramos que se suba el archivo y añadimos dos directivas using, la primera hace referencia a la api mega y la segunda nos permitirá crear un hilo y de este modo no bloquear nuestra aplicación mientras se realizan algunas tareas en línea:</p>
+</blockquote>
+
+<pre><code class="language-C#">using CG.Web.MegaApiClient;
+using System.Threading.Tasks;
+
+</code></pre>
+
+<blockquote>
+<p>Ahora vamos con el método que se encargará de realizar la subida del archivo, actualizar la progressbar, y actualizar el texto de un label que irá informando al usuario de como va el proceso. El método es llamado dentro del evento “Shown” del form, y el form lo llamo mediante “ShowDialog()” desde el evento click de un botón de otro form, de esta manera es como una ventana emergente que no desaparecerá hasta que termine el proceso (entre 10 y 40 segundos). Para que quede mas claro, tenemos el “Form1” con un botón, este botón llamará al “Form2” mediante “ShowDialog()”, y dentro del evento “Shown” del “Form2” realizaremos la llamada al método encargado de subir el archivo “subirArchivoAMega()”.</p>
+</blockquote>
+
+<pre><code class="language-C#">//Declaración de un hilo
+ private Thread t;
+ 
+
+ //Evento Shown que instancia y ejecuta el hilo (este evento se ejecuta después del Load).
+ private void Form2_Shown(object sender, EventArgs e)
+ {
+     //Instancia un hilo para ejecutar el método &quot;subirArchivoAMega&quot;.
+     t = new Thread(subirArchivoAMega);
+     t.Start();
+ }
+// Método que se encarga de subir el archivo a la nuve con la api &quot;Mega&quot;.
+private void subirArchivoAMega() {
+    try {
+          // Actualizar el label para informar al usuario.
+          lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Conectando como 'tu_cuenta_de_email@gmail.com'&quot;; }));
+          // Aumentar la barra de progreso.
+          progressBar1.Invoke(new MethodInvoker(delegate { progressBar1.PerformStep(); }));
+          // Instancia de un cliente para conectar con mega.
+          MegaApiClient cliente = new MegaApiClient();
+          // Inicio de sesión con el cliente, pasando el correo y la contraseña de la cuenta mega a la que se sube el archivo.
+          cliente.Login(&quot;tu_cuenta_de_email@gmail.com&quot;, &quot;****************&quot;);
+
+          // Aumentar la barra de progreso.
+          progressBar1.Invoke(new MethodInvoker(delegate { progressBar1.PerformStep(); }));
+          // Actualizar el label para informar al usuario.
+          lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Obteniendo directorios...&quot;; }));
+          // Obtenemos los nodos (directorios/archivos) de la cuenta dentro de una variable.
+          var nodos = cliente.GetNodes();
+
+          // Actualizar el label para informar al usuario.
+          lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Buscando carpeta 'Facturas'...&quot;; }));
+          // Comprobar si existe algún nodo (directorio) que se llame &quot;Facturas&quot; (en mi caso quiero subir el archivo a dicha carpeta).
+          bool existe = cliente.GetNodes().Any(n =&gt; n.Name == &quot;Facturas&quot;);
+
+          // Crear dos nodos.
+          Node root;
+          Node carpeta;
+
+         // Si el directorio facturas existe, se obtiene. Si no existe, se crea.
+         if (existe == true) {
+              // Actualizar el label para informar al usuario.
+              lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Obteniendo la carpeta 'Facturas'....&quot;; }));
+              // Aumentar la barra de progreso.
+              progressBar1.Invoke(new MethodInvoker(delegate { progressBar1.PerformStep(); }));
+
+             // Obtenemos el directorio.
+             carpeta = nodos.Single(n =&gt; n.Name == &quot;Facturas&quot;);
+         }else {
+             // Actualizar label para informar al usuario.
+             lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Creando carpeta 'Facturas'...&quot;; }));
+             // Aumentar la barra de progreso.
+             progressBar1.Invoke(new MethodInvoker(delegate { progressBar1.PerformStep(); }));
+
+             //Obtenemos el nodo raíz.
+             root = nodos.Single(n =&gt; n.Type == NodeType.Root);
+             // Creamos el directorio llamado &quot;Facturas&quot; en la raíz.
+             carpeta = cliente.CreateFolder(&quot;Facturas&quot;, root);
+         }
+
+         // Aumentar la barra de progreso.
+         progressBar1.Invoke(new MethodInvoker(delegate { progressBar1.PerformStep(); }));
+         // Actualizar label para informar al usuario.
+         lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Subiendo archivo...&quot;; }));
+         // Aumentar la barra de progreso.
+         progressBar1.Invoke(new MethodInvoker(delegate { progressBar1.PerformStep(); }));
+
+         // Subimos el archivo al directorio &quot;Facturas&quot;, pasando la ruta del archivo a subir y el directorio de mega donde debe subirlo.
+         Node archivo = cliente.Upload(@&quot;C\:Mis facturas\factura1.pdf&quot;, carpeta);
+
+         // Obtener el link de descarga del archivo subido por si se requiere para algo.
+         Uri downloadUrl = cliente.GetDownloadLink(archivo);
+         // Actualizar label para informar al usuario.
+         lblInfo.Invoke(new MethodInvoker(delegate { lblInfo.Text = &quot;Archivo subido con éxito.&quot;; }));
+
+    }catch (Exception error){
+        // Algo ha fallado, abortamos el subproceso.
+        t.Abort();
+        // Mensaje en pantalla para informar al usuario del error.
+        MessageBox.Show(&quot;Error al intentar subir el archivo. &quot; + error.Message, &quot;Error&quot;, MessageBoxButtons.OK, MessageBoxIcon.Error);
+    }
+
+    // No se puede cerrar el form desde un subproceso ya que no es desde donde se ha creado. Con este código podemos cerrarlo.
+    this.Invoke((MethodInvoker)delegate{
+        this.Close();
+    });
+}
+
+</code></pre>
+
+<blockquote>
+<p>Si os fijáis, hago constantemente referencias a elementos del form, el motivo es para que el usuario sepa en todo momento la evolución del proceso. Para acceder a los componentes de un form no podemos hacerlo directamente desde un subproceso, por eso utilizamos el método “Invoke” que ejecuta el delegado asignado al subproceso y nos permite comunicarnos con el usuario.</p>
+
+<p>Finalmente muestro mi diseño del form para que veáis el total de elementos a los que hago referencia en el método, aunque podéis implementar el diseño que os guste.</p>
+</blockquote>
+
+<p><center><img src="/img/Dev/megaapiclient_upload_file.png" alt="001" /></center></p>
+
+	</section>
+    </div>
+
+    <footer class="site-footer">
+	<p class="text">&copy; 2016 - © lPinchol Moon.<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+</body>
+</html>
