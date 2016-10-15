@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/categories/guias/index.xml</link>
+    <description>Recent content on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <atom:link href="http://lpinchol.github.io/categories/guias/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Guia de Bravely Default.</title>
+      <link>http://lpinchol.github.io/post/guia_bravely_default/</link>
+      <pubDate>Sat, 15 Oct 2016 14:11:59 +0200</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/guia_bravely_default/</guid>
+      <description>
+
+&lt;h1 id=&#34;guía-de-bravely-default&#34;&gt;Guía de Bravely Default&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_01.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Como es evidente, esta no será una guía &amp;ldquo;al uso&amp;rdquo; y responderá más a decisiones personales de mi propia partida más que a criterios objetivos especialmente efectivos para cada situación, así que espero que comprendáis que mientras esté realizando este proyecto, muchas partes serán susceptibles de cambio porque, al avanzar en la partida, puede que descubra que cierta cosa que hice se podría haber hecho de otra forma o igual me dejé algo atrás&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;ÍNDICE&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;- Demo&lt;/li&gt;
+&lt;li&gt;- Preguntas frecuentes&lt;/li&gt;
+&lt;li&gt;- Trabajos&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;3.1 - Aprendiz&lt;/p&gt;
+
+&lt;p&gt;3.2 - Monje&lt;/p&gt;
+
+&lt;p&gt;3.3 - Mago Blanco&lt;/p&gt;
+
+&lt;p&gt;3.4 - Mago Negro&lt;/p&gt;
+
+&lt;p&gt;3.5 - Caballero&lt;/p&gt;
+
+&lt;p&gt;3.6 - Ladrón (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.7 - Mercader (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.8 - Esgrimago (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.9 - Mago del tiempo (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.10 - Cazador (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.11 - Invocador (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.12 - Valquiria (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.13 - Mago Rojo (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.14 - Creador de bálsamos (Trabajo opcional) + Lista de combinaciones&lt;/p&gt;
+
+&lt;p&gt;3.15 - Artista (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.16 - Pirata (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.17 - Ninja (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.18 - Maestro espadachín (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.19 - Ocultista&lt;/p&gt;
+
+&lt;p&gt;3.20 - Maestro espiritual&lt;/p&gt;
+
+&lt;p&gt;3.21 - Templario&lt;/p&gt;
+
+&lt;p&gt;3.22 - Caballero oscuro&lt;/p&gt;
+
+&lt;p&gt;3.23 - Vampiro (Trabajo opcional)&lt;/p&gt;
+
+&lt;p&gt;3.24 - Hechicero (Trabajo opcional)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;- abilidades especiales.&lt;/li&gt;
+&lt;li&gt;- La reconstrucción de Norende y los Némesis.&lt;/li&gt;
+&lt;li&gt;- Bestiario: Localización de todos los monstruos para completar el Diario de D.&lt;/li&gt;
+&lt;li&gt;- Objetos y equipo.&lt;/li&gt;
+&lt;li&gt;- Cómo se hizo, dibujos y curiosidades&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;8.1 - Introducción: La sima de la desesperanza.&lt;/p&gt;
+
+&lt;p&gt;8.2 - Capítulo 1: Sentarse es para perros.&lt;/p&gt;
+
+&lt;p&gt;8.3 - Capítulo 2: Un día, bajo el cielo azul.&lt;/p&gt;
+
+&lt;p&gt;8.4 - Capítulo 3: Lazos amados.&lt;/p&gt;
+
+&lt;p&gt;8.5 - Capítulo 4: Blanco y negro.&lt;/p&gt;
+
+&lt;p&gt;8.6 - Capítulo 5: Escenario de ayer&lt;/p&gt;
+
+&lt;p&gt;8.7 - Capítulo 6: Resonancias: Inquietud.&lt;/p&gt;
+
+&lt;p&gt;8.8 - Capítulo 7: Resonancias: Desesperación.&lt;/p&gt;
+
+&lt;p&gt;8.9 - Capítulo 8: Resonancias: Paz.&lt;/p&gt;
+
+&lt;p&gt;8.10 - Final alternativo: Spoiler.&lt;/p&gt;
+
+&lt;p&gt;8.11 - Final: Bravely Default.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;1 - DEMO&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_02.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;la demo de Bravely Default es una de esas demos que vale la pena jugar por el impacto que tendrá en el juego real, ya que completar los diferentes retos de la misma nos otorga objetos extra al comenzar la versión definitiva y los datos de Street Pass se conservan, lo cual es un aliciente extra para probarla.&lt;/p&gt;
+
+&lt;p&gt;Pero pasemos a lo interesante: Los oficios disponibles. Son 9 (Habrá 24 en la versión final) y limitados a 4 niveles (14 en el juego), pero ya podemos hacernos una idea de cuáles podrán ser nuestros favoritos para empezar.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo que la versión definitiva estará traducida al español, así que ni los nombres de las habilidades ni el nivel en el que se aprenden serán las mismas que en la versión final del juego.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;FREELANCER&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; Todos nivel C&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; Todos a nivel B&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Late Bloomer -&amp;gt;&lt;/strong&gt; Sus parametros aumentan en un 1% por cada oficio llevado al maximo.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Examine:&lt;/strong&gt; El Libra de toda la vida para conocer la VIT restante de nuestros enemigos. Bastante útil contra jefazos, sobre todo para jugadores impacientes.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dungeon Master:&lt;/strong&gt; Anula el daño y el efecto causado por el terreno fuera de combate. En la demo es útil en la zona del bosque, con esos pozos de veneno. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mislead:&lt;/strong&gt; Reduce las posibilidades de ser atacado por el enemigo. Puede ser útil en magos, pero yo prefiero usar Default para defenderme.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Divining Rod:&lt;/strong&gt; Revela cuántos cofres quedan por abrir en una mazmorra. Interesante para la versión final, bastante inútil en la demo, con una sola sala oculta. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El oficio &amp;ldquo;Caballero Cebolla&amp;rdquo; del juego no es de los más interesantes, ya que su habilidad base no brilla demasiado con solo 9 oficios. Solo veo útiles su Examine y las habilidades de soporte en momentos puntuales, pero poco más.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;KNIGHT&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_04.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT B, Ataque B, Defensa S, Espíritu B. Todo lo demás: D.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; Espadas y Escudos S, Lanzas, cascos y armaduras, A, resto: B o inferior.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Protect Ally -&amp;gt;&lt;/strong&gt; Defiende automáticamente a un aliado que esté a punto de morir.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ironclad:&lt;/strong&gt; Maximiza la defensa (+150%) durante un turno. Coste: 5 PM. No es muy útil, hay habilidades mejores.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Two Handed:&lt;/strong&gt; Permite usar la mano del escudo para coger el arma con dos manos y duplicar su poder. Muy útil en composiciones ofensivas. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Full Cover:&lt;/strong&gt; Defiende a un aliado de los ataques directos durante todo un turno. En el juego final es una habilidad de nivel 10, así que imaginad lo OP que está. Ideal para cubrir a curanderos, magos negros o ninjas.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Chivalrous Spirit:&lt;/strong&gt; Aumenta tu defensa un 25% por cada habilidad protectora que uses. Hay habilidades de apoyo mejores en la demo. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El clásico caballero combina habilidades defensivas y ofensivas, lo cual lo hacen apto para cualquier situación. En los momentos finales de la demo, lo usaba con escudo para cubrir a mi Ninja, que era quien recibía más daño, pero también lo probé como guerrero ofensivo con arma a dos manos y pega bastante.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;BLACK MAGE&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT: C, MP: A, INT: A, SPIRIT: B, Rapidez: C, Resto: D o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; S en bastones, B en varas y dagas. Resto: E.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Black Resonance -&amp;gt;&lt;/strong&gt; Aumenta el daño de los conjuros si hay más magos negros en el grupo.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Black Magic LV. 1:&lt;/strong&gt; Piro, Hielo y Electro. Los clásicos.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Black Magic LV. 2:&lt;/strong&gt; Mutis, Veneno y Morfeo. Solo Veneno es realmente interesante contra ciertos enemigos.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Damage Dispersion:&lt;/strong&gt; Reduce el daño recibido compartiéndolo con los aliados. Hay habilidades mejores. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Black Magic LV. 3:&lt;/strong&gt; Piro+, Hielo+  y Electro+. Sinceramente: Ni los he usado.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No sé si es que es cosa de la demo o que estoy muy exquisito, pero la impresión que me deja este oficio es que su daño no es muy superior al de los oficios físicos que, además, no tienen que consumir PM. Puede que en el juego real este oficio sí tenga la importancia que siempre ha tenido, pero lo dicho: En la demo no se la he visto.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;WHITE MAGE&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_06.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT: D, MP: S, SPIRIT: A, Resto: C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; S en bastones, B en varas y escudos, C en dagas. Resto: E.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Self Healing -&amp;gt;&lt;/strong&gt; Te recupera de los estados alterados tras el combate. (MUY útil en los comienzos del juego, con serpientes que te envenenan).&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;White Magic LV. 1:&lt;/strong&gt; Cure, Poisona, Blinda. La Cura vital para cualquier grupo y un par de estados alterados corregidos.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;White Magic LV. 2:&lt;/strong&gt; Aero, Coraza, Escudo. Aero puede hacer daño al principio del juego y las habilidades defensivas pueden ser útiles&amp;hellip; Hasta que pruebas al Performer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Angelic Ward:&lt;/strong&gt; 50% de posibilidades de que el daño recibido disminuya un 50%. (Habilidad de Apoyo: 1 Ranura) La habilidad más rota de la demo. Con diferencia. VITAL para todo tu grupo, ya que reduce el daño recibido una barbaridad y, por supuesto, esta habilidad está nerfeada a tope en la versión final, donde costará 3 Ranuras y el % de activarse baja al 25%.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;White Magic LV. 3:&lt;/strong&gt; Cura+, Lázaro, Esna. Lázaro es caro (18 PM), pero vale la pena tenerlo y Cura+ es vital en los momentos finales de la demo, así que alguien con White Magic es un &amp;ldquo;must have&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Un Mago Blanco es indispensable para cualquier grupo que se precie, así que por lo menos uno de tus personajes deberá tener sus habilidades disponibles. Además, con lo OP que está Angelic Ward, casi que todo el mundo va a dominar este oficio en la demo.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;RED MAGE&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_07.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT/DEF/VEL: C, MP/ATK/SPI/INT: B, DESTREZA: A.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; A en espadas, B en casi todas las armas y C en escudos, cascos y armaduras.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Revenge -&amp;gt;&lt;/strong&gt; 25% de posibilidades de ganar 1 BP por recibir daño.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;B/W Magic LV. 1:&lt;/strong&gt; Puede usar los hechizos de nivel 1 de Mago Blanco y Negro.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Turn Table:&lt;/strong&gt; Gana 1 BP por ataque esquivado. Útil en ciertos roles. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;B/W Magic LV. 2:&lt;/strong&gt; Sobre todo resulta interesante tener Veneno, pero ya hemos visto que no son habilidades muy allá.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Adrenaline:&lt;/strong&gt; +1 BP por enemigo que derrote el Mago Rojo. MUY interesante, sobre todo para el juego definitivo.  (Habilidad de Apoyo: 2 Ranuras).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El Mago Rojo es una buena opción para seguir llevando a un Mago (Blanco, principalmente) como segundo rol y así aprovechar sus estadísticas superiores para el combate físico. Puede que no sea tan buen mago, pero sus Cura+ son lo suficientemente buenas para mantener al grupo sin problemas y siempre podrás tirar de las habilidades de nivel 2 del Mago Negro si te hacen falta.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;NINJA&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_08.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; DESTREZA: A, VEL: S, INT: B, Resto C menos DEF y SPI, que es D.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; Dagas S, Katana B, resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Dual Wield -&amp;gt;&lt;/strong&gt; Puede llevar dos armas y ambas causan el mismo daño.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Utsusemi:&lt;/strong&gt; Esquiva el primer ataque físico que reciba. Muy útil si está con poca vida.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Transcience:&lt;/strong&gt; Contraataca tras esquivar un ataque. Combinado con Utsusemi es un chiste. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Comeback Kid:&lt;/strong&gt; Aumenta su ataque un 25% tras esquivar un ataque. Puede ser muy buena habilidad. (Habilidad de Apoyo: 1 Ranura).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ikkikasei:&lt;/strong&gt; Duplica los ataques que realiza en este turno. Bien usado, resulta un abuso.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Su habilidad Dual Wield y las buenas dagas que se pueden lograr desbloqueando la tienda en la reconstrucción de Norende hacen de este oficio a uno de los más efectivos a la hora de hacer un daño masivo a los enemigos. Eso sí, su resistencia será de las más bajas del juego, así que procura tenerla bien defendida por un Knight si no quieres llevarte una desagradable sorpresa.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;PERFORMER&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_09.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT/DEF: B, Resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; Varas, Dagas y cetros: S, Espadas A, resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Save Singing MP -&amp;gt;&lt;/strong&gt; Las canciones cuestan menos PM. Vamos, lo que viene a ser un &amp;ldquo;si quieres cantar, usa este oficio o gasta PMs a saco&amp;rdquo;.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Love Power:&lt;/strong&gt; Sube un 25% el ataque del grupo. Coste: 30 PM (15 si eres Performer) No merece la pena salvo que tengas mucha prisa.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;One More For You:&lt;/strong&gt; Le da 1 BP a un aliado. Coste: 26 PM. Para mi gusto, no merece demasiado la pena.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Catch Me:&lt;/strong&gt; Aumenta las posibilidades de ser objetivo de losa taques del enemigo en los siguientes turnos. Coste: 10 PM. Viene bien para tanques.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Buff Up:&lt;/strong&gt; Aumenta un 5% todos tus stats al final de cada turno. Es decir, que en 5 turnos tus personajes irán más petados que con Love Power y una ración de Corazas/Escudos y en 10 estarán a tope. Una chetada de proporciones épicas. (Habilidad de Apoyo: 2 Ranuras).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sus canciones no son la panacea, aunque resultan útiles contra los jefes del juego, pero lo de Buff Up es tal abuso que vale la pena que todos lo aprendan. Además, su diseño es chulísimo.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;VALKYRIE&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_10.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT/ATK/DEF/VEL: B, Resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; Lanzas S, Armaduras/Escudos/Cascos: A, resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Soul Mates -&amp;gt;&lt;/strong&gt; Gana un +25% en su ataque durante 5 turnos si un aliado muere.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Jump:&lt;/strong&gt; Desaparece como posible objetivo del enemigo durante un turno y cae en el siguiente causando daño extra. Útil al principio y bastante pasable al final de la demo.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Crescent Moon:&lt;/strong&gt; Un ataque que acierta a todos los enemigos. Muy útil para grupos grandes.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Pierce Default:&lt;/strong&gt; Causa el mismo daño incluso cuando el enemigo usa Default. No merece mucha la pena por 2 ranuras. (Habilidad de Apoyo: 2 Ranuras).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;BP Skill Amp:&lt;/strong&gt; Aumenta el coste de las habilidades que consumen BP, pero éstas cuasan un 1.5 más de daño. Puede ser muy fuerte, pero por 3 ranuras no lo veo. (Habilidad de Apoyo: 3 Ranuras).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Diseño espectacular, buenos stats, habilidades útiles para buena parte del juego&amp;hellip; Es un oficio por el que pasar sí o sí cuando quieres tener a un personaje fuerte.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;SWORDMASTER&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_11.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;Parametros:&lt;/strong&gt; VIT/MP/ATK: B, SPI/VEL: A, Resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Dominio de equipo:&lt;/strong&gt; Katanas S, Armaduras/Escudos/Cascos: A, Dagas y Espadas B, resto C o menos.&lt;/center&gt;
+&lt;center&gt;&lt;strong&gt;Habilidad base: Counter -&amp;gt;&lt;/strong&gt; Puede contraatacar a los enemigos que le causen daño.&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nothing Ventured:&lt;/strong&gt; Reduce el daño recibido en un 50% durante un turno y contraataca si es atacado. Es MUY buena habilidad, sobre todo si sabes que el enemigo te va a atacar.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mustitask:&lt;/strong&gt; Tienes un 25% de posibilidades de ejecutar un ataque extra este turno. Puede venir bien, pero por el coste de 2 Ranuras, no es TAN rentable en la demo, con 4 Ranuras como límite.(Habilidad de Apoyo: 2 Ranuras).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Squeaky Wheel:&lt;/strong&gt; Reduce en 1 el BP del enemigo. Este ataque tiene un 30% de posibilidades de funcionar contra jefes. Y por esa penalización, la habilidad es practicamente inútil. Muy pocos enemigos de relleno de la demo pueden ser verdaderamente peligrosos con muchos BP.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Redoubled Effort:&lt;/strong&gt; Aumenta el daño causado en un 1.1 si tienes i BP, en 1.21 si tienes 2 BP, en 1.33 si tienes 3 BP y en 1.46 si tienes 4 BP. No sé por qué, pero en la demo no se notaba tanto el efecto y el tiempo que pierdes haciendo Default para cargar BP no compensaba el daño extra. (Habilidad de Apoyo: 2 Ranuras).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;EL oficio ofensivo de la demo. A sus buenos stats se le une la posibilidad de contraatacar, lo cual hace que cause más daño a largo plazo que otros roles basados en el daño físico. Además, puede hacerse muy resistente con Nothing Ventured y llevando una katana a dos manos se convierte en un monstruo. Genial.&lt;/p&gt;
+
+&lt;p&gt;Con estos roles, yo acabé la demo (Nivel &lt;sup&gt;19&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt;, todos los roles en nivel 4) con un Swordmaster (Buff Up, Two Handed y Angelic Ward), un Mago Rojo (Buff Up, Angelic Ward, Turn Table y Mago Blanco de segundo rol), un Ninja (Buff Up, Angelic Ward y Transcience) y un Knight (Buff Up, Angelic Ward y Chivalrous Spirit) y no tuve problemas para acabar con los mega-enemigos extra que salían al final: Dragon y Automaton.&lt;/p&gt;
+
+&lt;p&gt;Me bastaba con atacar con Ninja, Sowrdmaster y Mago Rojo, mientras que con el Knight usaba Full Cover sobre el Ninja para anular el posible daño que ésta pudiera recibir. El resto, con equipo de Norende a nivel 4, podía aguantar sin problemas los ataques de esos enemigos especiales y con Cura podía recuperarlos tras cada oleada de ataques que soltaban los jefazos.&lt;/p&gt;
+
+&lt;p&gt;Para subir de nivel, una vez que te dicen que vayas al bosque, bastaba con encontrar un grupo de setas o escorpiones y que se dedicaran a llamar a sus compañeros para tener un combate sin fin en el que ganar experiencia y puntos de oficio a saco. Una vez que has completado la torre, me dediqué a farmear a la tortuga-jefe de la zona del bosque, que daba 70 JP y permitía maximizar los oficios en nada y menos, aunque en la costa hay también unos enemigos más que interesantes para esa labor.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_12.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;
+&lt;center&gt;En la versión final el primer jefazo del juego acaba como enemigo de relleno, imaginad lo grande que será.&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;En cuanto a la reconstrucción de la ciudad, tuve la suerte de encontrarme con dos personas que tenían la demo, así que con 4 señores (El tercero te lo dan al completar las 3 mazmorras de los alrededores de la ciudad) no costaba casi nada reconstruir cada zona, bastaba con dejar cargando la N3DS encendida, con la demo puesta, para finiquitar la reconstrucción y poder comprar el equipo gordo que te venden allí. Además, completar la reconstrucción de Norende en la demo desbloquea una recompensa extra para la versión final:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Empezar la demo: 2 Antídotos, 2 Colirio y 2 Hierbas de eco.&lt;/li&gt;
+&lt;li&gt;Derrotar a Melousine: 3 Pociones y 1 Ultrapoción.&lt;/li&gt;
+&lt;li&gt;Derrotar al Minotaur: 1 Bastón y 1Éter.&lt;/li&gt;
+&lt;li&gt;Derrotar a la Adamant Turtle: 1 Vara y 1 Éter.&lt;/li&gt;
+&lt;li&gt;Derrotar al Dragon: 1 Yelmo de bronce y 1 Armadura de cuero.&lt;/li&gt;
+&lt;li&gt;Derrotar al Automaton: 1 Espada ancha y 1 Broquel.&lt;/li&gt;
+&lt;li&gt;Completar la reconstrucción de Norende (Desbloquear 2 caminos y subir 4 tiendas a nivel 3): Aro de bronce y 2 Plumas de fénix.&lt;/li&gt;
+&lt;li&gt;Por completarlo todo: 2 ciudadanos para la población de Norende y hasta un máximo de 20 si has logrado aumentar la población de la ciudad usando la demo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;strong&gt;2 - PREGUNTAS FRECUENTES&lt;/strong&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_13.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Con el fin de ayudar más fácilmente a los nuevos lectores que tengan una duda concreta y no quieran buscarla en toda la guía (Vag@s :P) esta entrada resolverá las dudas más frecuentes que pueden tener los jugadores y no-jugadores de Bravely Default.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;¿De verdad merece la pena este juego? ¿Cómo es?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Esta es una pregunta muy común de los poseedores de una Nintendo 3DS y siempre digo lo mismo: Si te gustan los Final Fantasy clásicos y JRPGs similares, el juego te va a gustar, sin duda.&lt;/p&gt;
+
+&lt;p&gt;Evidentemente, este título no tiene la complejidad argumental de los Final Fantasy más importantes, pero sí que ofrece a unos personajes muy carismáticos, tanto aliados como enemigos que harán la aventura muy amena, divertida y con sus sorpresas, que siempre se agradecen.&lt;/p&gt;
+
+&lt;p&gt;La dificultad está bien ajustada (Puedes poner el juego en Difícil desde el primer momento si te quieres asegurar de afrontar un reto importante), hay muchos secretos, el sistema de combate es muy dinámico, la frecuencia de los combates aleatorios es adecuada (Y se puede modificar en todo momento) y la duración supera las 60 horas tranquilamente.&lt;/p&gt;
+
+&lt;p&gt;Las únicas quejas más o menos importantes residen en que tras el Capitulo 4 la historia se toma un respiro y tenemos 4 capítulos bastante flojos en ese aspecto, donde nuestra labor será disfrutar más de los combates que de otra cosa. Al final, todo se volverá mucho más épico, pero hay gente con poca paciencia a la que ese momento del juego les mata completamente.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_14.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;¿Qué pasa con esos cofres azules? ¿Cómo los abro?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tranquilidad, no podrás abrir los cofres azules hasta que logres la Llave de cofre en el Capítulo 6, así que simplemente necesitarás paciencia hasta llegar a ese capítulo. ;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tengo al Invocador, pero solo a una invocación. ¿Dónde consigo al resto?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Para lograr más invocaciones, deberás encontrar a los anacoretas ocultos en diferentes zonas del mundo y sobrevivir a la invocación que te lancen. Su localización es la siguiente:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Hresvelgr&lt;/strong&gt; -&amp;gt; Templo del Viento, P1. (Capítulo 2 en adelante)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ziusudra&lt;/strong&gt; -&amp;gt; Monte Fragmentum. (Capítulo 2 en adelante)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Fuego Prometeo&lt;/strong&gt; -&amp;gt; Templo del Fuego. (Capítulo 3 en adelante)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Deus ex Máchina&lt;/strong&gt; -&amp;gt; Torre Perpetua, P1. (Capítulo 4 en adelante)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Susano&amp;rsquo;o&lt;/strong&gt; -&amp;gt; Isla al noreste del mapa con forma de media Luna, en la parte más lejana del puerto. (Capítulo 3 en adelante)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Para sobrevivir a estos potentes ataques, es altamente recomendable tener mucha resistencia mágica y, si es posible, toda la defensa elemental que puedas llevar, ya que salvo Susano&amp;rsquo;o el resto están afiliados a un elemento y, de hecho, podrías anular por completo su daño llevando cierto equipo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;¿Qué es eso de que el juego tiene dos finales?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sí, Bravely Default tiene dos finales distintos, pero NO voy a spoilear nada. Simplemente quiero tranquilizarte: DA IGUAL el final que tomes, una vez lo acabes te devolverán al momento previo a la toma de decisión y podrás hacer el otro sin ningún problema.&lt;/p&gt;
+
+&lt;p&gt;Si no, siempre podrás empezar una Partida+ desde el comienzo manteniendo todo lo logrado en la partida anterior, así que hay varias opciones para que no te tengas que preocupar demasiado sobre el camino a tomar.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;¿Cómo logro más trabajadores para reconstruir el pueblo de Norende?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_15.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;continuara&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
