@@ -728,7 +728,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;3.1 - MONJE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3.2 - MONJE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/guiabravelydefault/guiabravelydefault_19.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
@@ -836,24 +836,94 @@
 &lt;td&gt;&lt;strong&gt;Tonificación&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;2&lt;/td&gt;
 &lt;td&gt;-&lt;/td&gt;
-&lt;td&gt;Aumenta el ataque un 25% durante dos turnos.&lt;/td&gt;
+&lt;td&gt;Aumenta el ataque un 25% durante dos turnos. Tiene un 25% de posibilidades de fallar, en cuyo caso pierdes el 20% de tus PS máximos.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Alquimia interior&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;5 PM&lt;/td&gt;
+&lt;td&gt;Te curas de los estados alterados Veneno, Ceguera, Mutis, Canguelo y Confusión.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;PS +10%&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;1 Ranura&lt;/td&gt;
+&lt;td&gt;Aumenta tu máximo de PS en un 10%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Saber de mitones&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1 Ranura&lt;/td&gt;
+&lt;td&gt;Aumenta el poder de ataque con puños desnudos y mitones, además de aumentar el daño causado por atacar sin armas.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Dragón oculto&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;Ataca al final del turno para causar un 1,25 más de daño.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Carga de energía&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;12 PM&lt;/td&gt;
+&lt;td&gt;Causa 1,25 más de daño que se salta la reducción de daño de Default.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Anticeguera&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;1 Ranura&lt;/td&gt;
+&lt;td&gt;Confiere inmunidad a Ceguera.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Ataque f +10%&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;1 Ranura&lt;/td&gt;
+&lt;td&gt;Aumenta el ataque físico un 10%.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;PS +20%&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;2 Ranura&lt;/td&gt;
+&lt;td&gt;Aumenta tu máximo de PS en un 20%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Punto de presión&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;1 PB&lt;/td&gt;
+&lt;td&gt;Dobla el daño del ataque normal y se salta la defensa del objetivo.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;PS + 30%&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;1 Ranura&lt;/td&gt;
+&lt;td&gt;Aumenta tu máximo de PS en un 30%&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Vuelo del fénix&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;3 Ranura&lt;/td&gt;
+&lt;td&gt;Reduce a 1 tus PS y causa un daño igual a los PS perdidos.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Talento natural&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;1 Ranura&lt;/td&gt;
+&lt;td&gt;Aumenta tu ataque físico si no llevas nada equipado.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-&lt;p&gt;Tiene un 25% de posibilidades de fallar, en cuyo caso pierdes el 20% de tus PS máximos.
-&lt;strong&gt;Alquimia interior&lt;/strong&gt; | 3 | 5 PM | Te curas de los estados alterados Veneno, Ceguera, Mutis, Canguelo y Confusión.
-&lt;strong&gt;PS +10%&lt;/strong&gt; | 4 | 1 Ranura | Aumenta tu máximo de PS en un 10%
-&lt;strong&gt;Saber de mitones&lt;/strong&gt; | 5 | 1 Ranura | Aumenta el poder de ataque con puños desnudos y mitones, además de aumentar el daño causado por atacar sin armas.
-&lt;strong&gt;Dragón oculto&lt;/strong&gt; | 6 | - | Ataca al final del turno para causar un 1,25 más de daño.
-&lt;strong&gt;Carga de energía&lt;/strong&gt; | 7 | 12 PM | Causa 1,25 más de daño que se salta la reducción de daño de Default.
-&lt;strong&gt;Anticeguera&lt;/strong&gt; | 8 | 1 Ranura   | Confiere inmunidad a Ceguera.
-&lt;strong&gt;Ataque f +10%&lt;/strong&gt; | 9 | 1 Ranura | Aumenta el ataque físico un 10%.
-&lt;strong&gt;PS +20%&lt;/strong&gt; | 10 | 2 Ranura | Aumenta tu máximo de PS en un 20%
-&lt;strong&gt;Punto de presión&lt;/strong&gt; | 11 | 1 PB | Dobla el daño del ataque normal y se salta la defensa del objetivo.
-&lt;strong&gt;PS + 30%&lt;/strong&gt; | 12 | 1 Ranura | Aumenta tu máximo de PS en un 30%
-&lt;strong&gt;Vuelo del fénix&lt;/strong&gt; | 13 | 3 Ranura | Reduce a 1 tus PS y causa un daño igual a los PS perdidos.
-&lt;strong&gt;Talento natural&lt;/strong&gt; | 14 | 1 Ranura  | Aumenta tu ataque físico si no llevas nada equipado.&lt;/p&gt;
 
 &lt;p&gt;Continuara &amp;hellip;&lt;/p&gt;
 </description>
