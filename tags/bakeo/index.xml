@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/tags/bakeo/index.xml</link>
+    <description>Recent content on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <atom:link href="http://lpinchol.github.io/tags/bakeo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bakeo simple en Unity3d</title>
+      <link>http://lpinchol.github.io/post/Lighting-bake/</link>
+      <pubDate>Mon, 07 Nov 2016 09:28:50 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Lighting-bake/</guid>
+      <description>
+
+&lt;h1 id=&#34;bakeo-simple-en-unity3d&#34;&gt;Bakeo simple en Unity3d&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh00.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Primero preparamos la escena, con colores planos (simples) y algun objeto para representar en la escena, como una
+esfera.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh01.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Luego configuramos la iluminacion para el quemado. Lo mas importante seria el echo de quitar el bakeo y seleccionar en tiempo real para preparar la escena entera.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh02.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Añadimos una pequeña animacion para el movimiento de la luz direccional para ver en tiempo real el movimiento y si esta bien configurado.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+public float v = 5;
+private void Update(){transform.Rotate(new Vector3(0,v,0),Space.World);}
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Despues de ver que todo funciona correctamente.
+Implementar un Reflection Probe para ver el reflejo de las zonas donde se quieran reflejar.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Configurar el probe:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Tipo de reflejo&lt;/li&gt;
+&lt;li&gt;Cuando refresca&lt;/li&gt;
+&lt;li&gt;Resolucion&lt;/li&gt;
+&lt;li&gt;HDR&lt;/li&gt;
+&lt;li&gt;Etc..&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Luego importamos el paquete de unity de characters y instanciamos unos cuantos personajes con AI y un nav mesh para que se pueda mover.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh04.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Luego ponemos una esfera o un cubo de objetivo y al darle play el personaje seguira al objetivo.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero el jugador no se ilumina bien por lo que creamos grupos de probes para conseguir toda la reflexion posible.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh06.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
