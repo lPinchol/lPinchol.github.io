@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/tags/clase/index.xml</link>
+    <description>Recent content on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <atom:link href="http://lpinchol.github.io/tags/clase/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clase de sistemas de particulas - Unity3D</title>
+      <link>http://lpinchol.github.io/post/particulas-clase/</link>
+      <pubDate>Mon, 14 Nov 2016 09:23:14 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/particulas-clase/</guid>
+      <description>
+
+&lt;h1 id=&#34;clase-de-sistemas-de-particulas-unity3d&#34;&gt;Clase de sistemas de particulas - Unity3D&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/part.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Los parametros mas usados son, Base, emision y renderer.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Base&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Duracion: La vida que tendra todas las particulas.&lt;/p&gt;
+
+&lt;p&gt;Looping: Crea un loop por el cual crea un loop de las particulas.&lt;/p&gt;
+
+&lt;p&gt;Prewarm: Aparecen todas las particulas directamente (No se inician poco a poco).&lt;/p&gt;
+
+&lt;p&gt;Start Delay: El tiempo que tardan en empezar.&lt;/p&gt;
+
+&lt;p&gt;Start Lifetime: El tiempo desde que sale hasta que desaparece.&lt;/p&gt;
+
+&lt;p&gt;Start Speed: La velocidad inicial de las particulas.&lt;/p&gt;
+
+&lt;p&gt;3D Start Size: Modifica la malla para estirar las particulas.&lt;/p&gt;
+
+&lt;p&gt;Start Size: Tamaño inicial de las particulas.&lt;/p&gt;
+
+&lt;p&gt;3D Start Rotacion: Modifica la rotacion de las particulas.&lt;/p&gt;
+
+&lt;p&gt;Randomize Rotacion: Rotacion aleatoria.&lt;/p&gt;
+
+&lt;p&gt;Start Color: Color inicial.&lt;/p&gt;
+
+&lt;p&gt;Gravity Modifier: Gravedad para las particulas.&lt;/p&gt;
+
+&lt;p&gt;Simulation Space: Cambiar el pivote.&lt;/p&gt;
+
+&lt;p&gt;Scaling Mode: Escalar en el espacio global o loca.&lt;/p&gt;
+
+&lt;p&gt;Play On Awake: Reproducir cuando uses Awake.&lt;/p&gt;
+
+&lt;p&gt;Max particle: Numero maximo de particulas del sistema.&lt;/p&gt;
+
+&lt;p&gt;Auto Random Seed: Donde van a aparecer desde el punto de vision las particulas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Emission&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rate: Numero de particulas por segundo que se van a emitir.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Shape&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Shape: La forma que va a coger la particula.&lt;/p&gt;
+
+&lt;p&gt;Angle: Angulo de las particulas&lt;/p&gt;
+
+&lt;p&gt;Radius: Aumenta o disminuye el radio.&lt;/p&gt;
+
+&lt;p&gt;Emit from: Modifica la zona de emision.&lt;/p&gt;
+
+&lt;p&gt;Random Direction: Direccion aleatoria.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Renderer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Render Mode: Billboard (Orientado a la camara), tipo de renderizado
+Normal Direction: Direccion de la normal&lt;/p&gt;
+
+&lt;p&gt;Material: Material a renderizar&lt;/p&gt;
+
+&lt;p&gt;Sort Mode: Que particulas iran por delante de lo demas.&lt;/p&gt;
+
+&lt;p&gt;Sorting Fugde: Lo mismo&lt;/p&gt;
+
+&lt;p&gt;Cast Shadorws: Proyecten sombras&lt;/p&gt;
+
+&lt;p&gt;Receiver Shadows: Recibir sombras&lt;/p&gt;
+
+&lt;p&gt;Min Particle Size: Tamaño de las particulas minimo.&lt;/p&gt;
+
+&lt;p&gt;Max Particle Size: Tamaño de las particulas maximo.&lt;/p&gt;
+
+&lt;p&gt;Sorting Layer: La capa&lt;/p&gt;
+
+&lt;p&gt;Order in Layer: Orden de la capa.&lt;/p&gt;
+
+&lt;p&gt;Billboard alignment: Alineacion del billboard.&lt;/p&gt;
+
+&lt;p&gt;Pivot: Pivote general&lt;/p&gt;
+
+&lt;p&gt;Light Probes: Si se utilizan los probes&lt;/p&gt;
+
+&lt;p&gt;Reflection Probes: Si se utiliza reflection&lt;/p&gt;
+
+&lt;p&gt;Anchor override: La posicion&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

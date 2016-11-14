@@ -10,6 +10,115 @@
     <atom:link href="http://lpinchol.github.io/tags/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Clase de sistemas de particulas - Unity3D</title>
+      <link>http://lpinchol.github.io/post/particulas-clase/</link>
+      <pubDate>Mon, 14 Nov 2016 09:23:14 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/particulas-clase/</guid>
+      <description>
+
+&lt;h1 id=&#34;clase-de-sistemas-de-particulas-unity3d&#34;&gt;Clase de sistemas de particulas - Unity3D&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/part.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Los parametros mas usados son, Base, emision y renderer.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Base&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Duracion: La vida que tendra todas las particulas.&lt;/p&gt;
+
+&lt;p&gt;Looping: Crea un loop por el cual crea un loop de las particulas.&lt;/p&gt;
+
+&lt;p&gt;Prewarm: Aparecen todas las particulas directamente (No se inician poco a poco).&lt;/p&gt;
+
+&lt;p&gt;Start Delay: El tiempo que tardan en empezar.&lt;/p&gt;
+
+&lt;p&gt;Start Lifetime: El tiempo desde que sale hasta que desaparece.&lt;/p&gt;
+
+&lt;p&gt;Start Speed: La velocidad inicial de las particulas.&lt;/p&gt;
+
+&lt;p&gt;3D Start Size: Modifica la malla para estirar las particulas.&lt;/p&gt;
+
+&lt;p&gt;Start Size: Tamaño inicial de las particulas.&lt;/p&gt;
+
+&lt;p&gt;3D Start Rotacion: Modifica la rotacion de las particulas.&lt;/p&gt;
+
+&lt;p&gt;Randomize Rotacion: Rotacion aleatoria.&lt;/p&gt;
+
+&lt;p&gt;Start Color: Color inicial.&lt;/p&gt;
+
+&lt;p&gt;Gravity Modifier: Gravedad para las particulas.&lt;/p&gt;
+
+&lt;p&gt;Simulation Space: Cambiar el pivote.&lt;/p&gt;
+
+&lt;p&gt;Scaling Mode: Escalar en el espacio global o loca.&lt;/p&gt;
+
+&lt;p&gt;Play On Awake: Reproducir cuando uses Awake.&lt;/p&gt;
+
+&lt;p&gt;Max particle: Numero maximo de particulas del sistema.&lt;/p&gt;
+
+&lt;p&gt;Auto Random Seed: Donde van a aparecer desde el punto de vision las particulas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Emission&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rate: Numero de particulas por segundo que se van a emitir.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Shape&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Shape: La forma que va a coger la particula.&lt;/p&gt;
+
+&lt;p&gt;Angle: Angulo de las particulas&lt;/p&gt;
+
+&lt;p&gt;Radius: Aumenta o disminuye el radio.&lt;/p&gt;
+
+&lt;p&gt;Emit from: Modifica la zona de emision.&lt;/p&gt;
+
+&lt;p&gt;Random Direction: Direccion aleatoria.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Parametros Renderer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Render Mode: Billboard (Orientado a la camara), tipo de renderizado
+Normal Direction: Direccion de la normal&lt;/p&gt;
+
+&lt;p&gt;Material: Material a renderizar&lt;/p&gt;
+
+&lt;p&gt;Sort Mode: Que particulas iran por delante de lo demas.&lt;/p&gt;
+
+&lt;p&gt;Sorting Fugde: Lo mismo&lt;/p&gt;
+
+&lt;p&gt;Cast Shadorws: Proyecten sombras&lt;/p&gt;
+
+&lt;p&gt;Receiver Shadows: Recibir sombras&lt;/p&gt;
+
+&lt;p&gt;Min Particle Size: Tamaño de las particulas minimo.&lt;/p&gt;
+
+&lt;p&gt;Max Particle Size: Tamaño de las particulas maximo.&lt;/p&gt;
+
+&lt;p&gt;Sorting Layer: La capa&lt;/p&gt;
+
+&lt;p&gt;Order in Layer: Orden de la capa.&lt;/p&gt;
+
+&lt;p&gt;Billboard alignment: Alineacion del billboard.&lt;/p&gt;
+
+&lt;p&gt;Pivot: Pivote general&lt;/p&gt;
+
+&lt;p&gt;Light Probes: Si se utilizan los probes&lt;/p&gt;
+
+&lt;p&gt;Reflection Probes: Si se utiliza reflection&lt;/p&gt;
+
+&lt;p&gt;Anchor override: La posicion&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Trails of Cold Steel II se retrasa 4 días en España</title>
       <link>http://lpinchol.github.io/post/trails-of-cold-retrasado/</link>
       <pubDate>Wed, 09 Nov 2016 20:15:31 +0100</pubDate>
@@ -1812,46 +1921,6 @@ Sí, no son razones demasiado sólidas, pero no hay que olvidar que, durante muc
 
 &lt;p&gt;Vamos, que nos tenemos que acostumbrar a que tengamos tres grandes ventanas de lanzamientos óptimas para muchas compañías: los meses de invierno, el periodo post-vacaciones de verano (principalmente para los títulos anuales) y la campaña navideña. Lo que sí es fácil de explicar es que nos lleguen tantos y tantos RPGs interesantes: este género es de los más fuertes de la actualidad, ocupando el puesto de otros géneros como la velocidad o la pura acción, en cierto declive con esta nueva generación de sistemas.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[Opinion] La pureza de los RPGs de los 90</title>
-      <link>http://lpinchol.github.io/post/pureza_rpgs_90/</link>
-      <pubDate>Fri, 14 Oct 2016 17:00:34 +0200</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/pureza_rpgs_90/</guid>
-      <description>
-
-&lt;h1 id=&#34;opinión-la-pureza-de-los-rpgs-de-los-90&#34;&gt;[Opinión] La pureza de los RPGs de los 90&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/RPGS90_01.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Una de las frases insignia de la obra de Stephen King, La Torre Oscura, resume muy bien &lt;strong&gt;uno de los principales lastres que acarrea la industria del videojuego&lt;/strong&gt;, y audiovisual en general, desde hace muchos años.&lt;/p&gt;
-
-&lt;p&gt;Y es que hay dos puntos claves que van de la mano en cualquier industria, que en realidad se enfrentan en una guerra sin fin donde parece que nunca hay vencedor y que en raras ocasiones llegan a entenderse. &lt;strong&gt;El primero es ofrecer un producto de calidad&lt;/strong&gt;, darle forma para conseguir algo más que un juego, trascender los límites de lo esperable y sorprender al consumidor con algo que consiga marcarle para toda la vida. Es, a grandes rasgos, lo que sería hacer arte con tu producto. &lt;strong&gt;El segundo&lt;/strong&gt;, por desgracia, &lt;strong&gt;es darse cuenta de que estamos hablando de empresas&lt;/strong&gt;, lo que venden son productos y viven de que el consumidor los compre, &lt;strong&gt;viven, a fin de cuentas, de hacer dinero&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;¿Cual es el problema? Pues que si puedes vender 20 millones de copias en vez de 10.000, prefieres vender más, se mire por donde se mire. Esto implica que &lt;strong&gt;debes atraer a la mayor cantidad de público posible&lt;/strong&gt;. Implica que debes crear un producto que sea entretenido para la mayoría. Si lo haces demasiado difícil o complejo, muchos lo dejarán, si lo haces demasiado denso argumentalmente, muchos se aburrirán, si presentas algo con lo que no estén acostumbrados, muchos no querrán esforzarse en comprender qué les ofreces. &lt;strong&gt;La solución sencilla es, pues, crear un juego que no sea muy complejo&lt;/strong&gt;, simple argumentalmente, con suficientes clichés que sabes que funcionan y que  resulte entretenido, sin añadir algo que no va a saber manejar el jugador.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/RPGS90_02.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Evidentemente, esto no es ni siquiera una regla, ya que &lt;strong&gt;podemos nombrar multitud de excepciones&lt;/strong&gt;, hay muchos casos en los que ese criterio simplista no se cumple, pero la tendencia está ahí, mermando las posibilidades en mayor o menor medida de los juegos que están (y estén) por llegar.&lt;/p&gt;
-
-&lt;p&gt;Con esto llegamos al punto clave de lo que se quiere exponer en esta entrada: &lt;strong&gt;¿Qué pasó con la esencia de los clásicos de los 90?&lt;/strong&gt; Eran maravillosos RPGs en una época dorada para nuestro género favorito, donde se hacía un sobre-esfuerzo en el diseño de escenarios, personajes, narración de la historia y la creación de un mundo. &lt;strong&gt;Nos dejaban momentos inolvidables&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;¿Por qué no nos sentimos igual con juegos actuales?&lt;/strong&gt; Está claro que parcialmente se debe al efecto nostálgico y el impacto que supone probar un tipo determinado de juego por primera vez. Los clichés que podemos ver en los mismos se deben a que ellos fueron los que los introdujeron en nuestras mentes y, aunque nos gustaron, cuando se repiten una y otra vez se convierten en tópicos.&lt;/p&gt;
-
-&lt;p&gt;Por otra parte, sin embargo, los juegos de la época dorada eran para &lt;strong&gt;un público más concreto&lt;/strong&gt;: éste estaba estabilizado y el objetivo era atraerlo de cara a su siguiente compra con más y mejor, profundizando en aquello que estaban haciendo bien. Esto fue lo que nos dio aquellas obras maestras, sin duda alguna. No se trabajaba para la cacofonía actual, sino para un público muy determinado y de unas características homogéneas.&lt;/p&gt;
-
-&lt;p&gt;En esa época, todo el mundo tenía Final Fantasy VII, pero era un cupo relativamente limitado el que realmente pasaba de las primeras 10 horas de juego. Ese grupo seguiría comprando sucesivas entregas y no serían pocos, pero el pecado de la glotonería acabaría acaeciendo sobre la industria al darse cuenta que podían acaparar más, teniendo que cambiar su propia filosofía, también en los RPGs, llegando así a perder lo que sería aquella esencia y derivando en otros juegos argumentalmente más simplones, directos en su propuesta y muy parecidos unos a otros, o incluso entre ellos mismos dentro de una misma saga.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/RPGS90_03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Pero aún hay un rayo de esperanza: &lt;strong&gt;cada vez son más las compañías que se dan cuenta que alcanzar unos mínimos de calidad en determinados puntos&lt;/strong&gt;, realizando grandes esfuerzos, por ejemplo, en la elaboración del diseño de escenarios y personajes, narración de la historia, banda sonora, la creación de un mundo y momentos inolvidables&amp;hellip; &lt;strong&gt;Juegos como Undertale, Child of Light o Bastion demuestran que ese buen hacer sigue gustando y vendiendo&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;La propia Square Enix, después del buen hacer de Bravely Default, se dio cuenta de que &lt;strong&gt;aún había hueco para este tipo de juegos con aroma a la época dorada&lt;/strong&gt;. Así nació, por ejemplo, I am Setsuna, que ya sin cortarse prometía volver a los orígenes y beber de un peso pesado tal como lo es Chrono Trigger, aunque por desgracia no le ha salido muy bien la jugada (eso de disponer de un pequeño presupuesto y la amenaza del despido si no funciona tu proyecto no debe ayudar&amp;hellip; Salvo que seas Sakaguchi).&lt;/p&gt;
-
-&lt;p&gt;Dicho todo esto, querido lector y consumidor de RPGs, lo que buscaba con esta entrega es que, si te gustan esos juegos de los años 90 (y si has llegado después, ¡no dejes de probar obras maestras como &lt;strong&gt;Chrono Trigger, Final Fantasy VI, Terranigma, Tales of Phantasia&amp;hellip;!&lt;/strong&gt; para que sepas lo te que has perdido).&lt;/p&gt;
 </description>
     </item>
     
