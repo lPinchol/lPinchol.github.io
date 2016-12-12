@@ -10,6 +10,94 @@
     <atom:link href="http://lpinchol.github.io/tags/clase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lenguaje narrativo visual</title>
+      <link>http://lpinchol.github.io/post/claseAnimacionII-LenguajeNarrativo/</link>
+      <pubDate>Mon, 12 Dec 2016 12:49:56 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/claseAnimacionII-LenguajeNarrativo/</guid>
+      <description>
+
+&lt;h1 id=&#34;lenguaje-narrativo-visual&#34;&gt;Lenguaje narrativo visual&lt;/h1&gt;
+
+&lt;h2 id=&#34;1-introduccion&#34;&gt;1.Introduccion&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Esquema principal de una pelicula o videojuego.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Principio:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;15 - 30 min.&lt;/p&gt;
+
+&lt;p&gt;Conocer vida de personaje (Hasta que aparece un &lt;strong&gt;detonante&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;Se convierte en el objetivo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nudo:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Detonante.&lt;/p&gt;
+
+&lt;p&gt;Objetivo del protagonista.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Desenlace:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Se resuelve el objetivo (o no &amp;hellip;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;2-herramientas&#34;&gt;2.Herramientas&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Encuadre&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plano (Es la unidad minima del lenguaje audiovisual).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Existen dos tipos de planos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Temporal: Todo lo que graba la camara, desde su inicio hasta el final.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Espacial: Lo que vemos en cada fotograma.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Primero se coloca una figura humana y de hay se saca la referencia para todos los demas objetos del escenario.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Objetivo del plano general: Dar informacion de cual es la ubicacion del lugar en donde te encuentres. El jugador siempre esta encuadrado dentro del plano pero en pequeño, normalmente siempre es una escena donde te muestra o te situa dentro de la escena.&lt;/p&gt;
+
+&lt;p&gt;Dentro del plano general hay 3 tipos:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;El gran plano &lt;strong&gt;general&lt;/strong&gt;: La mayoria de casos la figura humana es irreconocible ya que esta muy lejos.(Escenarios)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plano general &lt;strong&gt;largo&lt;/strong&gt;: La figura humana es algo reconocible.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Plano general &lt;strong&gt;corto&lt;/strong&gt;: La figura humana es reconocible pero no ocupa mucho espacio del marco.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Objetivo del plano Entero: Se ve el personaje completo dejando poco espacio arriba y abajo del plano, y su uso es la presentacion de un personaje.&lt;/p&gt;
+
+&lt;p&gt;Objetivo del plano Americano: Una persona esta recortada desde las rodillas hacia arriba. Se usa para acciones genericas (Dialogos,etc&amp;hellip;).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clase de sistemas de particulas - Unity3D</title>
       <link>http://lpinchol.github.io/post/particulas-clase/</link>
       <pubDate>Mon, 14 Nov 2016 09:23:14 +0100</pubDate>
