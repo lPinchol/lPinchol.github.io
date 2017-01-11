@@ -10,6 +10,83 @@
     <atom:link href="http://lpinchol.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Comandos Git Fundamentales</title>
+      <link>http://lpinchol.github.io/post/comandos-git-fundamentales/</link>
+      <pubDate>Thu, 12 Jan 2017 00:09:45 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/comandos-git-fundamentales/</guid>
+      <description>
+
+&lt;h1 id=&#34;los-comandos-fundamentales-que-se-usan-en-git&#34;&gt;Los comandos fundamentales que se usan en git.&lt;/h1&gt;
+
+&lt;p&gt;Los comandos fundamentales que se usan en git son muchos, pero dependiendo del tipo de control de versiones que uno esta realizando en ese momento.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo si estas haciendo un control de versiones de un proyecto en el que solo participas tu, usaras los indispensables ya que con dejar el proyecto abierto para que otros puedas entrar sin problemas de cambiar la config sobra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;inicializar&#34;&gt;Inicializar:&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git init {Crea un nuevo repositorio}
+git clone /path/to/repository {Crea una copia local del repositorio}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;registro&#34;&gt;Registro&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git add &amp;lt;filename&amp;gt; {Agrega solo el fichero dado al registro}
+git add . {Agrega todos los cambios realizados al registro}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;empaquetado&#34;&gt;Empaquetado&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git commit -m &amp;quot;Mensaje&amp;quot; {Empaqueta el registro para ser mandado}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;envio&#34;&gt;Envio&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git push origin master {Envia el paquete(Commit) por la rama &amp;quot;master&amp;quot; al repositorio}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;ramas&#34;&gt;Ramas&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git checkout -b dev {Crea una rama llamada &amp;quot;dev&amp;quot; y cambiate a ella}
+git checkout master {Cambiar de rama}
+git branch -d dev {Borra la rama &amp;quot;dev&amp;quot;}
+git push origin &amp;lt;branch&amp;gt; {Envia al repositorio la nueva rama para actualizarla a todo el mundo}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;actualizacion&#34;&gt;Actualizacion&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git pull {Descarga los nuevos cambios del repositorio}
+git merge &amp;lt;branch&amp;gt; {Fusiona la rama dada con tu rama actual}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;etiquetas&#34;&gt;Etiquetas&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-git&#34;&gt;git tag 1.0.0 {Creas una nueva etiqueta llamada 1.0.0}
+git tag 1.0.0 1b2e1d63ff {Creas una nueva etiqueta haciendo referencia a 1b2e1d63ff, que es el id del commit}
+git log {Sacas el id del commit}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;y eso es todo de momento. Estos son los comandos que mas usaras. Pero si quieres pasar de usar consola y te ves mas comodo con una interfaz grafica, puedes usar diferentes clientes tales como:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://desktop.github.com/&#34; class=&#34;button&#34;&gt;GitHub Desktop(Win &amp;amp; Mac)&lt;/a&gt;&lt;a href=&#34;https://www.sourcetreeapp.com/&#34; class=&#34;button&#34;&gt;SourceTree(Win &amp;amp; Mac)&lt;/a&gt;&lt;a href=&#34;https://www.gitkraken.com/&#34; class=&#34;button&#34;&gt;GitKraken(Win/Mac/Linux)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chuleta Git Consola</title>
       <link>http://lpinchol.github.io/post/ChuletaGit/</link>
       <pubDate>Thu, 05 Jan 2017 01:02:50 +0100</pubDate>

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="es-es">
+<head>
+	<title>Comandos Git Fundamentales&middot; lPinchol Moon&#39;s Blog</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="lPinchol, Moon">
+	<meta name="description" content="un blog sobre mi, juegos, desarrollo y anime">
+	<meta name="keywords" content="Moon,Pincho,Dev">
+	<meta name="generator" content="Hugo 0.17" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://lpinchol.github.io/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://lpinchol.github.io/favicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <header class="site-header">
+	<div class="branding">
+		<a href="http://lpinchol.github.io/">
+		<img class="avatar" src="http://lpinchol.github.io/img/avatar.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://lpinchol.github.io/">lPinchol Moon&#39;s Blog</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+	      	<li><a href="/about/"> About </a></li>
+
+	      	<li>
+	<a href="http://lpinchol.github.io/" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li>
+	<a href="http://lpinchol.github.io/index.xml" title="Subscribirte">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li>
+	<a href="mailto:moon@lpinchol.xyz" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="https://bitbucket.org/lPinchol" title="Bitbucket">
+		<i class="fa fa-fw fa-bitbucket"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://github.com/lPinchol" title="GitHub">
+		<i class="fa fa-fw fa-github"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    </ul>
+	</nav>
+</header>
+
+
+    <div class="content">
+    <article class="feature-image">
+		<header style="background-image: url('http://lpinchol.github.io/img/img050.png')">
+			<h1 class="title">Comandos Git Fundamentales</h1>
+		</header>
+
+	<section class="post-content">
+		
+
+<h1 id="los-comandos-fundamentales-que-se-usan-en-git">Los comandos fundamentales que se usan en git.</h1>
+
+<p>Los comandos fundamentales que se usan en git son muchos, pero dependiendo del tipo de control de versiones que uno esta realizando en ese momento.</p>
+
+<p>Por ejemplo si estas haciendo un control de versiones de un proyecto en el que solo participas tu, usaras los indispensables ya que con dejar el proyecto abierto para que otros puedas entrar sin problemas de cambiar la config sobra.</p>
+
+<hr />
+
+<h2 id="inicializar">Inicializar:</h2>
+
+<pre><code class="language-git">git init {Crea un nuevo repositorio}
+git clone /path/to/repository {Crea una copia local del repositorio}
+</code></pre>
+
+<hr />
+
+<h2 id="registro">Registro</h2>
+
+<pre><code class="language-git">git add &lt;filename&gt; {Agrega solo el fichero dado al registro}
+git add . {Agrega todos los cambios realizados al registro}
+</code></pre>
+
+<hr />
+
+<h2 id="empaquetado">Empaquetado</h2>
+
+<pre><code class="language-git">git commit -m &quot;Mensaje&quot; {Empaqueta el registro para ser mandado}
+</code></pre>
+
+<hr />
+
+<h2 id="envio">Envio</h2>
+
+<pre><code class="language-git">git push origin master {Envia el paquete(Commit) por la rama &quot;master&quot; al repositorio}
+</code></pre>
+
+<hr />
+
+<h2 id="ramas">Ramas</h2>
+
+<pre><code class="language-git">git checkout -b dev {Crea una rama llamada &quot;dev&quot; y cambiate a ella}
+git checkout master {Cambiar de rama}
+git branch -d dev {Borra la rama &quot;dev&quot;}
+git push origin &lt;branch&gt; {Envia al repositorio la nueva rama para actualizarla a todo el mundo}
+</code></pre>
+
+<hr />
+
+<h2 id="actualizacion">Actualizacion</h2>
+
+<pre><code class="language-git">git pull {Descarga los nuevos cambios del repositorio}
+git merge &lt;branch&gt; {Fusiona la rama dada con tu rama actual}
+</code></pre>
+
+<hr />
+
+<h2 id="etiquetas">Etiquetas</h2>
+
+<pre><code class="language-git">git tag 1.0.0 {Creas una nueva etiqueta llamada 1.0.0}
+git tag 1.0.0 1b2e1d63ff {Creas una nueva etiqueta haciendo referencia a 1b2e1d63ff, que es el id del commit}
+git log {Sacas el id del commit}
+</code></pre>
+
+<p>y eso es todo de momento. Estos son los comandos que mas usaras. Pero si quieres pasar de usar consola y te ves mas comodo con una interfaz grafica, puedes usar diferentes clientes tales como:</p>
+
+<p><a href="https://desktop.github.com/" class="button">GitHub Desktop(Win &amp; Mac)</a><a href="https://www.sourcetreeapp.com/" class="button">SourceTree(Win &amp; Mac)</a><a href="https://www.gitkraken.com/" class="button">GitKraken(Win/Mac/Linux)</a></p>
+
+	</section>
+    </div>
+
+    <footer class="site-footer">
+	<p class="text">&copy; 2017 - © lPinchol Moon.<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89564434-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+</body>
+</html>
