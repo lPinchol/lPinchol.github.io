@@ -10,6 +10,42 @@
     <atom:link href="http://lpinchol.github.io/categories/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Intentando Riggear en 3DMax</title>
+      <link>http://lpinchol.github.io/post/intentando-rigear-3dmax/</link>
+      <pubDate>Wed, 18 Jan 2017 20:23:03 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/intentando-rigear-3dmax/</guid>
+      <description>
+
+&lt;h1 id=&#34;riggear-para-salvarte-el-culo&#34;&gt;Riggear para salvarte el culo&lt;/h1&gt;
+
+&lt;p&gt;Bueno y aqui estamos, intentando riggear en 3d max para la asignatura de 3º de Setup, la verdad que todas las asignaturas de riggeo y animacion, no son lo mio, a parte de que no me gustan &amp;hellip; son pesadas y muy repetitivas.&lt;/p&gt;
+
+&lt;p&gt;Le pedi al profesor David Amado un modelo de un juego suyo para hacer la practica, ya que despues de 3 modelos, ninguno le convencio.&lt;/p&gt;
+
+&lt;p&gt;O la malla era muy densa, o no tenia que llevar falda&amp;hellip; nose, cosas raras, la verdad que si encima de que intento ponerme un reto, van y no me dejan &amp;hellip; la asignatura se vuelve menos .. como decirlo, interesante.&lt;/p&gt;
+
+&lt;p&gt;Por lo que en este caso, decidi que me prestara un modelo (a mi parecer de la generacion antigua) y asi me quitaba los calentamientos de cabeza.&lt;/p&gt;
+
+&lt;p&gt;Asi empezo la cosa, por los pies.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Una simple pierna, rigeada.&lt;/p&gt;
+
+&lt;p&gt;Sobre todo, lo mas importante, es que todo este bien organizado, ya que se te acumulara tal numero de nodos que al terminar sera un lio si no organizas bien tu rigging.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Yo , a parte de crear la memoria (necesaria para todas las asignaturas, tambien en una libretica que siempre llevo con migo) me voy escribiendo una guia, aunque no me guste riggear, nunca sabes lo que puedes necesitar el dia de mañana, asique no esta de mal. ^^&lt;/p&gt;
+
+&lt;p&gt;Bien, ahora seguiriamos por los brazos, unas cosas mas raras &amp;hellip; La composicion de huesos es logica, pero cambia segun el modelo, por suerte , el modelo que me a dejado el profesor es bastante simple, por lo que no habra mucho problema. :D&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pintura Del Dia -17-01-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-17-01-2017/</link>
       <pubDate>Tue, 17 Jan 2017 23:32:03 +0100</pubDate>
@@ -919,32 +955,6 @@ Implementar un Reflection Probe para ver el reflejo de las zonas donde se quiera
 &lt;p&gt;Pero el jugador no se ilumina bien por lo que creamos grupos de probes para conseguir toda la reflexion posible.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh06.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>El anime Ai Mai Mi confirma que tendrá tercera temporada</title>
-      <link>http://lpinchol.github.io/post/aimaimitercera/</link>
-      <pubDate>Mon, 07 Nov 2016 02:50:47 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/aimaimitercera/</guid>
-      <description>
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/anime/AiMaiMe.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;el-anime-ai-mai-mi-confirma-que-tendrá-tercera-temporada&#34;&gt;El anime Ai Mai Mi confirma que tendrá tercera temporada&lt;/h1&gt;
-
-&lt;p&gt;Fuga Hatori, compositor musical de las dos temporadas de la adaptación televisiva animada del manga 4-koma Ai Mai Mi de Choboraunyopomi, ha revelado que en el evento “ani x wara” celebrado este fin de semana se ha anunciado la producción de una tercera temporada que se estrenará en enero.&lt;/p&gt;
-
-&lt;p&gt;Itsuki Imazaki regresará para dirigir la nueva serie bajo el estudio de animación Seven al igual que ya hiciera con las dos primeras temporadas. Fuga Hatori también regresará desde las dos temporadas anteriores como compositor musical. Dream Creation se encarga de la producción, mientras que Dax Production hará lo propio con la producción de sonido.&lt;/p&gt;
-
-&lt;p&gt;Aya Uchida, Maaya Uchida y Yuka Otsubo retomarán sus roles como Mai, Mi y Ai respectivamente. Las tres seiyuus interpretaron los openings de las dos anteriores temporadas.&lt;/p&gt;
-
-&lt;p&gt;Anteriormente ya se había desvelado esta información vía una tira cómica del manga en la web oficial del manga, aunque se retiraba posteriormente sin confirmarse la información.&lt;/p&gt;
-
-&lt;p&gt;El manga está protagonizado por las chicas de un club de manga que lo mismo luchan contra malvados invasores extraterrestres, que se enfrentan a rivales en torneos o lidian con todo tipo de situaciones absurdas. De todo, menos dibujar manga como deberían.&lt;/p&gt;
-
-&lt;p&gt;La primera adaptación animada llegaba en 2013, siguiéndole su secuela en 2014.&lt;/p&gt;
 </description>
     </item>
     
