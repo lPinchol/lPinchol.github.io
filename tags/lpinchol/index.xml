@@ -10,14 +10,14 @@
     <atom:link href="http://lpinchol.github.io/tags/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Intentando Riggear en 3DMax</title>
+      <title>Intentando Riggear en 3DMax - 1ª Parte</title>
       <link>http://lpinchol.github.io/post/intentando-rigear-3dmax/</link>
       <pubDate>Wed, 18 Jan 2017 20:23:03 +0100</pubDate>
       
       <guid>http://lpinchol.github.io/post/intentando-rigear-3dmax/</guid>
       <description>
 
-&lt;h1 id=&#34;riggear-para-salvarte-el-culo&#34;&gt;Riggear para salvarte el culo&lt;/h1&gt;
+&lt;h1 id=&#34;riggear-para-salvarte-el-culo-1ª-parte&#34;&gt;Riggear para salvarte el culo 1ª Parte&lt;/h1&gt;
 
 &lt;p&gt;Bueno y aqui estamos, intentando riggear en 3d max para la asignatura de 3º de Setup, la verdad que todas las asignaturas de riggeo y animacion, no son lo mio, a parte de que no me gustan &amp;hellip; son pesadas y muy repetitivas.&lt;/p&gt;
 
@@ -42,6 +42,22 @@
 &lt;p&gt;Bien, ahora seguiriamos por los brazos, unas cosas mas raras &amp;hellip; La composicion de huesos es logica, pero cambia segun el modelo, por suerte , el modelo que me a dejado el profesor es bastante simple, por lo que no habra mucho problema. :D&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Hay que ir creando huesos end en cada terminacion y haciendo un constrain de posicion desde el hueso siguiente hasta los huesos ends creados anteriormente.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nose si habra una mejor manera, pero desde luego en &lt;strong&gt;Hasta el momento&lt;/strong&gt; me gusta mas la forma de trabajar en Malla.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;center&amp;gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Asi vamos terminando la fase de los brazos y empezando el tronco.&lt;/p&gt;
+
+&lt;p&gt;Pero no, se ve que era mucho pedir jajajaja, asi que ahora hay que hacer todos los controladores del brazo &amp;ldquo;Auxiliares&amp;rdquo; y los de los dedos. Bastante mas tedioso de lo que pensaba ^^&lt;/p&gt;
+
+&lt;p&gt;Ahora si que si, nos vamos al tronco. Pero eso sera en otra entrada.&lt;/p&gt;
+
+&lt;p&gt;Saludos.&lt;/p&gt;
 </description>
     </item>
     
