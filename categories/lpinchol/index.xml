@@ -10,6 +10,76 @@
     <atom:link href="http://lpinchol.github.io/categories/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pintura Del Dia -25-01-2017-</title>
+      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-25-01-2017/</link>
+      <pubDate>Wed, 25 Jan 2017 17:33:57 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-25-01-2017/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-imagen-del-dia-25-01-2017-center-br&#34;&gt;&lt;center&gt;Imagen del dia [25.01.2017]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/35.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;center&gt;Brave, la princesa de mayor ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intentando Riggear en 3DMax - 1ª Parte</title>
+      <link>http://lpinchol.github.io/post/intentando-rigear-3dmax/</link>
+      <pubDate>Wed, 18 Jan 2017 20:23:03 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/intentando-rigear-3dmax/</guid>
+      <description>
+
+&lt;h1 id=&#34;riggear-para-salvarte-el-culo-1ª-parte&#34;&gt;Riggear para salvarte el culo 1ª Parte&lt;/h1&gt;
+
+&lt;p&gt;Bueno y aqui estamos, intentando riggear en 3d max para la asignatura de 3º de Setup, la verdad que todas las asignaturas de riggeo y animacion, no son lo mio, a parte de que no me gustan &amp;hellip; son pesadas y muy repetitivas.&lt;/p&gt;
+
+&lt;p&gt;Le pedi al profesor David Amado un modelo de un juego suyo para hacer la practica, ya que despues de 3 modelos, ninguno le convencio.&lt;/p&gt;
+
+&lt;p&gt;O la malla era muy densa, o no tenia que llevar falda&amp;hellip; nose, cosas raras, la verdad que si encima de que intento ponerme un reto, van y no me dejan &amp;hellip; la asignatura se vuelve menos .. como decirlo, interesante.&lt;/p&gt;
+
+&lt;p&gt;Por lo que en este caso, decidi que me prestara un modelo (a mi parecer de la generacion antigua) y asi me quitaba los calentamientos de cabeza.&lt;/p&gt;
+
+&lt;p&gt;Asi empezo la cosa, por los pies.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Una simple pierna, rigeada.&lt;/p&gt;
+
+&lt;p&gt;Sobre todo, lo mas importante, es que todo este bien organizado, ya que se te acumulara tal numero de nodos que al terminar sera un lio si no organizas bien tu rigging.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Yo , a parte de crear la memoria (necesaria para todas las asignaturas, tambien en una libretica que siempre llevo con migo) me voy escribiendo una guia, aunque no me guste riggear, nunca sabes lo que puedes necesitar el dia de mañana, asique no esta de mal. ^^&lt;/p&gt;
+
+&lt;p&gt;Bien, ahora seguiriamos por los brazos, unas cosas mas raras &amp;hellip; La composicion de huesos es logica, pero cambia segun el modelo, por suerte , el modelo que me a dejado el profesor es bastante simple, por lo que no habra mucho problema. :D&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Hay que ir creando huesos end en cada terminacion y haciendo un constrain de posicion desde el hueso siguiente hasta los huesos ends creados anteriormente.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nose si habra una mejor manera, pero desde luego &lt;strong&gt;Hasta el momento&lt;/strong&gt; me gusta mas la forma de trabajar en Malla.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Asi vamos terminando la fase de los brazos y empezando el tronco.&lt;/p&gt;
+
+&lt;p&gt;Pero no, se ve que era mucho pedir jajajaja, asi que ahora hay que hacer todos los controladores del brazo &amp;ldquo;Auxiliares&amp;rdquo; y los de los dedos. Bastante mas tedioso de lo que pensaba ^^&lt;/p&gt;
+
+&lt;p&gt;Ahora si que si, nos vamos al tronco. Pero eso sera en otra entrada.&lt;/p&gt;
+
+&lt;p&gt;Saludos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pintura Del Dia -17-01-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-17-01-2017/</link>
       <pubDate>Tue, 17 Jan 2017 23:32:03 +0100</pubDate>
@@ -859,92 +929,6 @@ Normal Direction: Direccion de la normal&lt;/p&gt;
 &lt;p&gt;Este retraso de unos días se debe a unas cuestiones evidentes de logística que, de nuevo, habría que apuntar a los problemas de distribuidoras como NIS en Europa, que ha delegado en Namco Bandai las labores de distribución de este título en nuestro país. ¿Y qué pasa si lo hace la última hora? Pues que Namco Bandai no puede distribuir todas las copias del título de Nihon Falcom en la fecha prevista.&lt;/p&gt;
 
 &lt;p&gt;Así, pues, a los que vayamos a adquirir la copia física del juego (Puesto que, digitalmente, sí estará disponible el 11, aunque su venta no computará a España) nos tocará esperar cuatro días extra. Pero, bueno, de mientras podemos hypearnos leyendo los análisis de su lanzamiento en otras regiones. Son solo unos días más.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bakeo simple en Unity3d</title>
-      <link>http://lpinchol.github.io/post/Lighting-bake/</link>
-      <pubDate>Mon, 07 Nov 2016 09:28:50 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Lighting-bake/</guid>
-      <description>
-
-&lt;h1 id=&#34;bakeo-simple-en-unity3d&#34;&gt;Bakeo simple en Unity3d&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh00.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Primero preparamos la escena, con colores planos (simples) y algun objeto para representar en la escena, como una
-esfera.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh01.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego configuramos la iluminacion para el quemado. Lo mas importante seria el echo de quitar el bakeo y seleccionar en tiempo real para preparar la escena entera.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh02.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Añadimos una pequeña animacion para el movimiento de la luz direccional para ver en tiempo real el movimiento y si esta bien configurado.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;
-public float v = 5;
-private void Update(){transform.Rotate(new Vector3(0,v,0),Space.World);}
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Despues de ver que todo funciona correctamente.
-Implementar un Reflection Probe para ver el reflejo de las zonas donde se quieran reflejar.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Configurar el probe:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;Tipo de reflejo&lt;/li&gt;
-&lt;li&gt;Cuando refresca&lt;/li&gt;
-&lt;li&gt;Resolucion&lt;/li&gt;
-&lt;li&gt;HDR&lt;/li&gt;
-&lt;li&gt;Etc..&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Luego importamos el paquete de unity de characters y instanciamos unos cuantos personajes con AI y un nav mesh para que se pueda mover.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh04.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego ponemos una esfera o un cubo de objetivo y al darle play el personaje seguira al objetivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Pero el jugador no se ilumina bien por lo que creamos grupos de probes para conseguir toda la reflexion posible.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh06.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>El anime Ai Mai Mi confirma que tendrá tercera temporada</title>
-      <link>http://lpinchol.github.io/post/aimaimitercera/</link>
-      <pubDate>Mon, 07 Nov 2016 02:50:47 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/aimaimitercera/</guid>
-      <description>
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/anime/AiMaiMe.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;el-anime-ai-mai-mi-confirma-que-tendrá-tercera-temporada&#34;&gt;El anime Ai Mai Mi confirma que tendrá tercera temporada&lt;/h1&gt;
-
-&lt;p&gt;Fuga Hatori, compositor musical de las dos temporadas de la adaptación televisiva animada del manga 4-koma Ai Mai Mi de Choboraunyopomi, ha revelado que en el evento “ani x wara” celebrado este fin de semana se ha anunciado la producción de una tercera temporada que se estrenará en enero.&lt;/p&gt;
-
-&lt;p&gt;Itsuki Imazaki regresará para dirigir la nueva serie bajo el estudio de animación Seven al igual que ya hiciera con las dos primeras temporadas. Fuga Hatori también regresará desde las dos temporadas anteriores como compositor musical. Dream Creation se encarga de la producción, mientras que Dax Production hará lo propio con la producción de sonido.&lt;/p&gt;
-
-&lt;p&gt;Aya Uchida, Maaya Uchida y Yuka Otsubo retomarán sus roles como Mai, Mi y Ai respectivamente. Las tres seiyuus interpretaron los openings de las dos anteriores temporadas.&lt;/p&gt;
-
-&lt;p&gt;Anteriormente ya se había desvelado esta información vía una tira cómica del manga en la web oficial del manga, aunque se retiraba posteriormente sin confirmarse la información.&lt;/p&gt;
-
-&lt;p&gt;El manga está protagonizado por las chicas de un club de manga que lo mismo luchan contra malvados invasores extraterrestres, que se enfrentan a rivales en torneos o lidian con todo tipo de situaciones absurdas. De todo, menos dibujar manga como deberían.&lt;/p&gt;
-
-&lt;p&gt;La primera adaptación animada llegaba en 2013, siguiéndole su secuela en 2014.&lt;/p&gt;
 </description>
     </item>
     

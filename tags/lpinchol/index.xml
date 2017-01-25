@@ -10,6 +10,76 @@
     <atom:link href="http://lpinchol.github.io/tags/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pintura Del Dia -25-01-2017-</title>
+      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-25-01-2017/</link>
+      <pubDate>Wed, 25 Jan 2017 17:33:57 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-25-01-2017/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-imagen-del-dia-25-01-2017-center-br&#34;&gt;&lt;center&gt;Imagen del dia [25.01.2017]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/35.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;center&gt;Brave, la princesa de mayor ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intentando Riggear en 3DMax - 1ª Parte</title>
+      <link>http://lpinchol.github.io/post/intentando-rigear-3dmax/</link>
+      <pubDate>Wed, 18 Jan 2017 20:23:03 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/intentando-rigear-3dmax/</guid>
+      <description>
+
+&lt;h1 id=&#34;riggear-para-salvarte-el-culo-1ª-parte&#34;&gt;Riggear para salvarte el culo 1ª Parte&lt;/h1&gt;
+
+&lt;p&gt;Bueno y aqui estamos, intentando riggear en 3d max para la asignatura de 3º de Setup, la verdad que todas las asignaturas de riggeo y animacion, no son lo mio, a parte de que no me gustan &amp;hellip; son pesadas y muy repetitivas.&lt;/p&gt;
+
+&lt;p&gt;Le pedi al profesor David Amado un modelo de un juego suyo para hacer la practica, ya que despues de 3 modelos, ninguno le convencio.&lt;/p&gt;
+
+&lt;p&gt;O la malla era muy densa, o no tenia que llevar falda&amp;hellip; nose, cosas raras, la verdad que si encima de que intento ponerme un reto, van y no me dejan &amp;hellip; la asignatura se vuelve menos .. como decirlo, interesante.&lt;/p&gt;
+
+&lt;p&gt;Por lo que en este caso, decidi que me prestara un modelo (a mi parecer de la generacion antigua) y asi me quitaba los calentamientos de cabeza.&lt;/p&gt;
+
+&lt;p&gt;Asi empezo la cosa, por los pies.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Una simple pierna, rigeada.&lt;/p&gt;
+
+&lt;p&gt;Sobre todo, lo mas importante, es que todo este bien organizado, ya que se te acumulara tal numero de nodos que al terminar sera un lio si no organizas bien tu rigging.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Yo , a parte de crear la memoria (necesaria para todas las asignaturas, tambien en una libretica que siempre llevo con migo) me voy escribiendo una guia, aunque no me guste riggear, nunca sabes lo que puedes necesitar el dia de mañana, asique no esta de mal. ^^&lt;/p&gt;
+
+&lt;p&gt;Bien, ahora seguiriamos por los brazos, unas cosas mas raras &amp;hellip; La composicion de huesos es logica, pero cambia segun el modelo, por suerte , el modelo que me a dejado el profesor es bastante simple, por lo que no habra mucho problema. :D&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Hay que ir creando huesos end en cada terminacion y haciendo un constrain de posicion desde el hueso siguiente hasta los huesos ends creados anteriormente.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nose si habra una mejor manera, pero desde luego &lt;strong&gt;Hasta el momento&lt;/strong&gt; me gusta mas la forma de trabajar en Malla.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Asi vamos terminando la fase de los brazos y empezando el tronco.&lt;/p&gt;
+
+&lt;p&gt;Pero no, se ve que era mucho pedir jajajaja, asi que ahora hay que hacer todos los controladores del brazo &amp;ldquo;Auxiliares&amp;rdquo; y los de los dedos. Bastante mas tedioso de lo que pensaba ^^&lt;/p&gt;
+
+&lt;p&gt;Ahora si que si, nos vamos al tronco. Pero eso sera en otra entrada.&lt;/p&gt;
+
+&lt;p&gt;Saludos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pintura Del Dia -17-01-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-17-01-2017/</link>
       <pubDate>Tue, 17 Jan 2017 23:32:03 +0100</pubDate>
@@ -1040,215 +1110,6 @@ Implementar un Reflection Probe para ver el reflejo de las zonas donde se quiera
 &lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/dcLZFf7G-pU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/nNWfV05tjIA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Alliance Alive para 3DS detalla su mundo, sus personajes y más</title>
-      <link>http://lpinchol.github.io/post/alliancealive/</link>
-      <pubDate>Tue, 18 Oct 2016 16:52:48 +0200</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/alliancealive/</guid>
-      <description>
-
-&lt;h1 id=&#34;the-alliance-alive-para-3ds-detalla-su-mundo-sus-personajes-y-más&#34;&gt;The Alliance Alive para 3DS detalla su mundo, sus personajes y más&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/alliance.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;El número de esta semana de la revista Famitsu ha dado más detalles de The Alliance Alive, el nuevo RPG de FuRyu para Nintendo 3DS.&lt;/p&gt;
-
-&lt;p&gt;El juego será un “nuevo RPG clásico”, pues tomará los elementos clásicos del género y los reconstruirá con las técnicas modernas. La historia nos presentará los esfuerzos de los humanos a la hora de oponerse a los seres mágicos que han gobernado el mundo con mano dura durante miles de años. El mundo se dividirá en varias zonas, cada una con su propia cultura, y los jugadores controlarán a los personajes a placer por los mapas. Las batallas darán comienzo al toparse con un símbolo enemigo. En total serán nueve los personajes principales, todos protagonistas, y que comenzarán su viaje con objetivos diferentes hasta ir convergiendo.&lt;/p&gt;
-
-&lt;p&gt;Los personajes principales son:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Galil – Un muchacho que pertenece a la resistencia conocida como “Cuervos de la noche”. Es amable pero muy apasionado.&lt;/li&gt;
-&lt;li&gt;Ursula – Una chica rubia que pertenece a la resistencia conocida como “Cuervos de la noche”. Es una joven siempre animada que se dedica a manipular a Galil y cuyas verdaderas intenciones no suelen ser evidentes.&lt;/li&gt;
-&lt;li&gt;Barbarosa – Un soldado fantasma que pertenece a la resistencia conocida como “Cuervos de la noche”. Juró lealtad al padre de Ursula, quien en una ocasión salvó su vida.&lt;/li&gt;
-&lt;li&gt;Vivian – Hija de un ser mágico noble. Una historiadora de personalidad tranquila con gran interés por el mundo humano.&lt;/li&gt;
-&lt;li&gt;Ignace – Un ser mágico y mayordomo que trabaja para Vivian. Valora en gran medida la clase y la disciplina.&lt;/li&gt;
-&lt;li&gt;Rachel – Mercernaria contratada por el Gremio Mágico. Es una mujer amable y de las que hacen lo primero que se les pasa por la cabeza sin pensar demasiado.&lt;/li&gt;
-&lt;li&gt;Renzo – Un joven que pertenece a la resistencia conocida como “Cuervos de la noche”. Siempre bien informado y optimista, sus ojos reflejan una gran calma.&lt;/li&gt;
-&lt;li&gt;Jean – Usuario de magia del Gremio Mágico que es subordinado de los seres mágicos. Tiene una mente abierta y no se deja llevar por el momento.&lt;/li&gt;
-&lt;li&gt;Tigi – Una chica que investiga el flujo negro. Es una profesora autoproclamada que ha creado varios inventos.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Famitsu también incluye una entrevista con el equipo, de la cual podemos extraer unos cuantos detalles más:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Tras investigar qué buscaba la gente y qué no ofrecían el resto de compañías, se dieron cuenta de que la respuesta era un RPG bien equilibrado entre historia y mecánicas de juego.&lt;/li&gt;
-&lt;li&gt;Querían crear un mundo de gran variedad que hiciera que recorrerlo sin más, ya fuera entretenido.&lt;/li&gt;
-&lt;li&gt;Decidieron ir en contra de las modas y usar un mapa del mundo a la antigua usanza, caminando por él y pudiendo hacerte una imagen global del mundo con ello.&lt;/li&gt;
-&lt;li&gt;Están optimizando la distancia entre pueblos y mazmorras, así como el porcentaje de encuentros, para que sea una sensación satisfactoria y no agobiante.&lt;/li&gt;
-&lt;li&gt;Los vehículos que permitirán alcanzar nuevos lugares, también estarán presentes.&lt;/li&gt;
-&lt;li&gt;Una de las razones para que haya nueve protagonistas es que cada cual encuentre uno que le guste.&lt;/li&gt;
-&lt;li&gt;Se podrá personalizar a placer el equipo con armas como espadas, lanzas y más.&lt;/li&gt;
-&lt;li&gt;Las batallas contará con un elemento llamado “Despertar” que proporcionará una nueva técnica en el momento o subirá las estadísticas.&lt;/li&gt;
-&lt;li&gt;Cuanto mayores y más fuertes sean los enemigos contra los que se combata, más rápido crecerán los personajes. Habrá ciertos elementos que permitirán impulsar este crecimiento.&lt;/li&gt;
-&lt;li&gt;El grupo se compondrá de hasta cinco personajes. Habrá también formaciones y un sistema de “Gremio” que potenciará al grupo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;El equipo principal del juego es:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Productor y director – Masataka Matsuura&lt;/li&gt;
-&lt;li&gt;Argumento – Yoshitaka Murayama&lt;/li&gt;
-&lt;li&gt;Diseño de juego  – Kyoji Koizumi&lt;/li&gt;
-&lt;li&gt;Director artístico – Masayo Asano&lt;/li&gt;
-&lt;li&gt;Compositor – Masashi Hamauzu&lt;/li&gt;
-&lt;li&gt;Diseño de personajes – Ryou Hirao&lt;/li&gt;
-&lt;li&gt;Desarrollo – Cattle Call (responsables de The Legend of Legacy)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Alliance Alive se lanzará en primavera de 2017 en las Nintendo 3DS japonesas.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/alliance2.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Más detalles de Blue Reflection para PlayStation 4 y PSVita</title>
-      <link>http://lpinchol.github.io/post/bluereflection/</link>
-      <pubDate>Mon, 17 Oct 2016 20:25:23 +0200</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/bluereflection/</guid>
-      <description>
-
-&lt;h1 id=&#34;más-detalles-de-blue-reflection-para-playstation-4-y-psvita&#34;&gt;Más detalles de Blue Reflection para PlayStation 4 y PSVita&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu01.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Gust ha liberado más detalles de Blue Reflection: Sword of the Girl Who Dances in Illusions, su próximo RPG para PlayStation 4 y PSVita.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Interactúa con tus amigas en la escuela&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu02.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;La protagonista es Hinako Shirai, quien tras sufrir una lesión que la obliga a retirarse de su amado ballet, conoce a dos chicas llamadas Yuzuki Shijou y Raimu Shijou. Hinako está encantada de poder ir a clase a diario con Yuzuki y Raimu, y poco a poco irá conociendo mejor a sus compañeras de clase y maduran.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– Mejorando lazos y haciendo amigas se podrán activar eventos tanto dentro de la escuela como en los días libres.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu04.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– Cada chica tiene sus propios problemas, como el amor y las relaciones humanas. Habrá situaciones en las que Hinako se pase de la raya y acabe enfadando a alguien…&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Los corazones de las chicas y las Reflectors&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Las preocupaciones y problemas de las estudiantes no solo se pueden resolver en el mundo real. Existe un “Mundo Diferente”, un mundo surgido del subconsciente del colectivo de la humanidad en el que acechan las causas principales de esos problemas. Hinako y sus amigas entrarán en este mundo como Reflectors para resolver tales problemas.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Para poder resolver los problemas deberá buscar emociones cristalizadas que causan problemas en el Mundo Diferente. En este Mundo Diferente, que es la misma mente humana, Hinako y sus amigas tendrán que superar todo tipo de retos.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu06.jpg&#34; alt=&#34;001&#34; /&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu07.jpg&#34; alt=&#34;001&#34; /&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu08.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Además de los Fragmentos, en el Mundo Diferente también se podrán conseguir objetos. Estos objetos que se encuentren se podrán usar para crear otros útiles a la hora de recuperarse o explorar.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu09.jpg&#34; alt=&#34;001&#34; /&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu10.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Al encontrar a un enemigo en el Mundo Diferente, dará comienzo el combate.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu11.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– Hinako, que se transforma en Reflector mediante el uso de poder mágico, se lanzará a la batalla con toda su fuerza y con una espada en mano.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu12.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– Yuzuki en cambio porta una vara cuando se transforma en Reflector.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu13.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– El arma de Reimu es un poco más particular, pues se abre paso en combate con un peluche.&lt;/p&gt;
-
-&lt;p&gt;Luchando, explorando y obteniendo Fragmentos en el Mundo Diferente, se irán produciendo cambios en los problemas que las estudiantes enfrentan en el mundo real.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu14.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– Encontrando Fragmentos, Hinako y sus amigas irán haciéndose poco a poco más fuertes.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu15.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;– Hinako lucha como Reflector con la esperanza de que algún día sane su lesión. Sin embargo hay cierto cambio produciéndose poco a poco en el mundo real…&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu16.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Personaje: Shihori Sugamoto&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu17.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Voz: Mikako Komatsu&lt;/p&gt;
-
-&lt;p&gt;Altura: 162 cm&lt;/p&gt;
-
-&lt;p&gt;Peso: 47,5 kg&lt;/p&gt;
-
-&lt;p&gt;Le gustan: Los accesorios bonitos&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Una chica muy sexy con un aura única. Es una gran conocedora de la moda y no duda en aconsejar a quien se lo pide en cuanto a aspecto. Es una chica preciosa con mucho estilo y a la que los hombres suelen rescatar de una forma u otra, además de tener poca experiencia enfrentándose a dificultades. Tiene muchos amigos masculinos, con lo que suele salir con chicos a solas. Para Shiori, sin embargo, el sexo no importa nada en la amistad.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ediciones limitadas&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Gust lanzará dos ediciones limitadas de Blue Reflection: Sword of the Girl Who Dances in Illusions con la “Premium Box” y la “Special Collection Box“.&lt;/p&gt;
-
-&lt;p&gt;La Premium Box incluirá:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Una copia del juego&lt;/p&gt;
-
-&lt;p&gt;Un código para descargar un traje especial para Hinako&lt;/p&gt;
-
-&lt;p&gt;La banda sonora oficial de Blue Reflection en tres discos&lt;/p&gt;
-
-&lt;p&gt;El libreto “Dengeki Hoshinomiya Bunko”&lt;/p&gt;
-
-&lt;p&gt;Un póster de tela tamaño B3&lt;/p&gt;
-
-&lt;p&gt;Un set de tres tarjetas&lt;/p&gt;
-
-&lt;p&gt;Un calendario escolar&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;La Special Collection Box incluirá:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Una copia del juego&lt;/p&gt;
-
-&lt;p&gt;Un código para descargar un traje especial para Hinako&lt;/p&gt;
-
-&lt;p&gt;La banda sonora oficial de Blue Reflection en tres discos&lt;/p&gt;
-
-&lt;p&gt;El libreto “Dengeki Hoshinomiya Bunko”&lt;/p&gt;
-
-&lt;p&gt;Un póster de tela tamaño B3&lt;/p&gt;
-
-&lt;p&gt;Un set de tres tarjetas&lt;/p&gt;
-
-&lt;p&gt;Un calendario escolar&lt;/p&gt;
-
-&lt;p&gt;Un póster de tela reversible a tamaño real&lt;/p&gt;
-
-&lt;p&gt;Un set de pósters extra grandes de los personajes&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu18.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;– El libreto “Dengeki Hoshinomiya Bunko”&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/blu19.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;– La banda sonora.&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Blue Reflection: Sword of the Girl Who Dances in Illusions de momento no tiene fecha de lanzamiento.&lt;/p&gt;
 </description>
     </item>
     
