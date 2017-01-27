@@ -7,8 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
-    <lastBuildDate>Wed, 25 Jan 2017 17:53:17 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2017 02:32:47 +0100</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A falta de unos dias.</title>
+      <link>http://lpinchol.github.io/post/a-falta-de-unos-dias/</link>
+      <pubDate>Fri, 27 Jan 2017 02:32:47 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/a-falta-de-unos-dias/</guid>
+      <description>&lt;p&gt;Bueno como el titulo dice, aqui estoy &lt;strong&gt;a falta de unos dias&lt;/strong&gt; para terminar en la entrega de proyectos.&lt;/p&gt;
+
+&lt;p&gt;Sera la poco costumbre, pero hacia mucho que no sentia esta presion y nose por que, la presion laboral es diferente (que con esto no quiero decir menor) que la presion escolar, en cuanto a agobios. En un DeadLine ajustado, tienes la impresion de que no llegaras, aunque tengas terminado el timing y sepas que llegas, es ridiculamente verdadero.&lt;/p&gt;
+
+&lt;p&gt;En cuestiones de notas, esta claro que si me dijeras que son notas valorables &amp;hellip; intentaria sacarlo todo, pero lo peor de esto es que 2 de  5 asignaturas, me las da un &lt;strong&gt;&amp;ldquo;tirado&amp;rdquo;&lt;/strong&gt;, que la mitad de la clase podria explicarle muchas cosas jajaja por otro lado, las asignaturas que restan no son llamativas para mi, &lt;strong&gt;Animacion II&lt;/strong&gt; se enfoca a rig y animacion para cine, &lt;strong&gt;Metodologia de la investigacion&lt;/strong&gt;, es realmente lo que emos estado haciendo estos años, por lo menos en mi epoca y e seguido haciendo hasta ahora y por ultimo &lt;strong&gt;audiovisual&lt;/strong&gt;, que me gusta bastante, pero se enfoca a diseño.&lt;/p&gt;
+
+&lt;p&gt;Como digo, este curso solo me interesa la programacion, y pa lo que dan en android &amp;hellip; me quedo en mi casa programando, que realmente aprendere mas que ayi.(Donde se ve que algunos alumnos tenga mas conocimientos que el maestro que esta dando clase&amp;hellip;).&lt;/p&gt;
+
+&lt;p&gt;Aunque estoy deseando pasar al segundo cuatrimestre, no se que clases habra, solo me entere de una, IA con fernando, un profesor que tiene mas de 20 años de experiencia programando y ademas un humor muy acertado, que es disfrutar, estar en sus clases, jajajaja.&lt;/p&gt;
+
+&lt;p&gt;Bueno y por aqui lo voy a dejar, subire este post junto con la pintura del dia y terminare de skinear el modelo para mañana presentarlo y que me digan las cosas que arreglar.&lt;/p&gt;
+
+&lt;p&gt;Saludetesss.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Terminando el Rigeo en 3DMax</title>
@@ -815,115 +837,6 @@ $Date: Tue Apr 21 07:26:52 2009 -0700$&lt;/p&gt;
 &lt;p&gt;Sorprende (desde un punto de vista occidental) la posición de Final Fantasy XIII, demasiado arriba para lo que muchos pensarían. Sin embargo, a pesar de las críticas, el primer título de Lightning es también uno de los más respetados en tierras niponas. También podemos ver a Nier en sexta posición, un diamante en bruto para muchos, pero que no llegó a cuajar su propuesta ni mucho menos. Seguramente, la cercanía de su secuela ha ayudado a que gane fuerza la idea de que muchos dejaron pasar esa joya. Lo de que el único juego de la serie Tales of que se cuele entre los 20 más relevantes empezase siendo una exclusividad de Xbox 360 (De hecho, sigue siendo exclusivo en occidente) resulta también llamativo, aunque casa con la idea que comparten muchos jugadores que consideran a esa entrega como la mejor de la saga reciente.&lt;/p&gt;
 
 &lt;p&gt;Que otro título no-tan-comercial como Resonance of Fate también aparezca por la lista y sea el único RPG sin secuela de los observados, es otra sorpresa más de este listado.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clase de sistemas de particulas - Unity3D</title>
-      <link>http://lpinchol.github.io/post/particulas-clase/</link>
-      <pubDate>Mon, 14 Nov 2016 09:23:14 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/particulas-clase/</guid>
-      <description>
-
-&lt;h1 id=&#34;clase-de-sistemas-de-particulas-unity3d&#34;&gt;Clase de sistemas de particulas - Unity3D&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/part.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Los parametros mas usados son, Base, emision y renderer.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Parametros Base&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Duracion: La vida que tendra todas las particulas.&lt;/p&gt;
-
-&lt;p&gt;Looping: Crea un loop por el cual crea un loop de las particulas.&lt;/p&gt;
-
-&lt;p&gt;Prewarm: Aparecen todas las particulas directamente (No se inician poco a poco).&lt;/p&gt;
-
-&lt;p&gt;Start Delay: El tiempo que tardan en empezar.&lt;/p&gt;
-
-&lt;p&gt;Start Lifetime: El tiempo desde que sale hasta que desaparece.&lt;/p&gt;
-
-&lt;p&gt;Start Speed: La velocidad inicial de las particulas.&lt;/p&gt;
-
-&lt;p&gt;3D Start Size: Modifica la malla para estirar las particulas.&lt;/p&gt;
-
-&lt;p&gt;Start Size: Tamaño inicial de las particulas.&lt;/p&gt;
-
-&lt;p&gt;3D Start Rotacion: Modifica la rotacion de las particulas.&lt;/p&gt;
-
-&lt;p&gt;Randomize Rotacion: Rotacion aleatoria.&lt;/p&gt;
-
-&lt;p&gt;Start Color: Color inicial.&lt;/p&gt;
-
-&lt;p&gt;Gravity Modifier: Gravedad para las particulas.&lt;/p&gt;
-
-&lt;p&gt;Simulation Space: Cambiar el pivote.&lt;/p&gt;
-
-&lt;p&gt;Scaling Mode: Escalar en el espacio global o loca.&lt;/p&gt;
-
-&lt;p&gt;Play On Awake: Reproducir cuando uses Awake.&lt;/p&gt;
-
-&lt;p&gt;Max particle: Numero maximo de particulas del sistema.&lt;/p&gt;
-
-&lt;p&gt;Auto Random Seed: Donde van a aparecer desde el punto de vision las particulas.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Parametros Emission&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Rate: Numero de particulas por segundo que se van a emitir.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Parametros Shape&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Shape: La forma que va a coger la particula.&lt;/p&gt;
-
-&lt;p&gt;Angle: Angulo de las particulas&lt;/p&gt;
-
-&lt;p&gt;Radius: Aumenta o disminuye el radio.&lt;/p&gt;
-
-&lt;p&gt;Emit from: Modifica la zona de emision.&lt;/p&gt;
-
-&lt;p&gt;Random Direction: Direccion aleatoria.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Parametros Renderer&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Render Mode: Billboard (Orientado a la camara), tipo de renderizado
-Normal Direction: Direccion de la normal&lt;/p&gt;
-
-&lt;p&gt;Material: Material a renderizar&lt;/p&gt;
-
-&lt;p&gt;Sort Mode: Que particulas iran por delante de lo demas.&lt;/p&gt;
-
-&lt;p&gt;Sorting Fugde: Lo mismo&lt;/p&gt;
-
-&lt;p&gt;Cast Shadorws: Proyecten sombras&lt;/p&gt;
-
-&lt;p&gt;Receiver Shadows: Recibir sombras&lt;/p&gt;
-
-&lt;p&gt;Min Particle Size: Tamaño de las particulas minimo.&lt;/p&gt;
-
-&lt;p&gt;Max Particle Size: Tamaño de las particulas maximo.&lt;/p&gt;
-
-&lt;p&gt;Sorting Layer: La capa&lt;/p&gt;
-
-&lt;p&gt;Order in Layer: Orden de la capa.&lt;/p&gt;
-
-&lt;p&gt;Billboard alignment: Alineacion del billboard.&lt;/p&gt;
-
-&lt;p&gt;Pivot: Pivote general&lt;/p&gt;
-
-&lt;p&gt;Light Probes: Si se utilizan los probes&lt;/p&gt;
-
-&lt;p&gt;Reflection Probes: Si se utiliza reflection&lt;/p&gt;
-
-&lt;p&gt;Anchor override: La posicion&lt;/p&gt;
 </description>
     </item>
     
