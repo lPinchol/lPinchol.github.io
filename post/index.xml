@@ -7,8 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
-    <lastBuildDate>Fri, 27 Jan 2017 02:32:47 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jan 2017 17:18:05 +0100</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Escribiendo sobre metodologia de la investigacion</title>
+      <link>http://lpinchol.github.io/post/escribiendo-sobre-metodologia-de-la-investigacion/</link>
+      <pubDate>Fri, 27 Jan 2017 17:18:05 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/escribiendo-sobre-metodologia-de-la-investigacion/</guid>
+      <description>&lt;p&gt;Aqui entro hoy con el tema de la asignatura metodologia de la investigacion, que por lo visto se hace en los 3 años sin fuste ninguno.&lt;/p&gt;
+
+&lt;p&gt;Claro que es importante la &lt;strong&gt;investigacion&lt;/strong&gt;, pero esta claro que es una asignatura de relleno, ya que todo lo dado en estos tres años se ubiera podido resumir en un año y tener la posibilidad de incorporar otras nuevas asignaturas que se han visto afectadas por la falta de tiempo, pero no entrare en el tema de si sigue verde el grado o si no.&lt;/p&gt;
+
+&lt;p&gt;Actualmente tenemos que crear una documentacion completa sobre como investigar un videojuego que queramos crear.&lt;/p&gt;
+
+&lt;p&gt;Por lo que e estado mirando de momento, lo tengo claro:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigacion general sobre el proyecto.&lt;/li&gt;
+&lt;li&gt;Referencias, hardware, analisis de mercado, plan de negocios, marketing.&lt;/li&gt;
+&lt;li&gt;DDJ&lt;/li&gt;
+&lt;li&gt;Autocritica&lt;/li&gt;
+&lt;li&gt;Bibliografia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En resumidas cuentas, esos son los puntos que me tocara exponer.&lt;/p&gt;
+
+&lt;p&gt;Basicamente le defino el proyecto dandole unos datos de mercado viables de paginas especificas con mucho recorrido, para dar poder al argumento de mi articulo.&lt;/p&gt;
+
+&lt;p&gt;Luego le hare un estudio del hardware necesario y por que creo y demuestro que mediante mi investigacion el cliente al que va dirigido el videojuego necesitara estos requisitos minimos para poder mover el juego.&lt;/p&gt;
+
+&lt;p&gt;Ahora estoy explicando, que metodologia de gestion de proyectos vamos a usar y por que.&lt;/p&gt;
+
+&lt;p&gt;Realmente siempre e usado SCRUM, no conozco ninguna nueva, por lo que investigare otras alternativas, por si van mejor con el foco de trabajo que tenemos por delante. Esta claro que aunque este acostumbrado a SCRUM, no voy a dejar pasar la experiencia de usar otra metodologia si conviene mas al equipo.&lt;/p&gt;
+
+&lt;p&gt;Terminado esto, lo siguiente es hablarle de los diferentes tipos de control de versiones para codigo y los programas de comunicacion como Slack. Con eso terminariamos y empezariamos con la parte de plan de negocios y Marketing, que creo que sera lo que mas le interese de todo el documento.&lt;/p&gt;
+
+&lt;p&gt;Ahora finalizado el tema general, voy a introducir dos o tres paginas sobre el DDJ para entrar en dentro del ambiente.&lt;/p&gt;
+
+&lt;p&gt;Despues simplemente creare una autocritica con los puntos fuertes y flojos que creo que e tenido dentro de la practica y haber si hay suerte y me deja enviarselo antes del dia de la entrega para que me lo revise bien y asi poder tener un visto y reset antes de la exposicion.&lt;/p&gt;
+
+&lt;p&gt;Veremos el martes lo que pasa ^^.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A falta de unos dias.</title>
@@ -42,7 +86,7 @@
 
 &lt;p&gt;pero como es muy cansino, no comentare nada en el blog, ya que me duermo de namas ponerme a pensarlo.&lt;/p&gt;
 
-&lt;p&gt;^^&lt;/p&gt;
+&lt;p&gt;^&lt;/p&gt;
 </description>
     </item>
     
@@ -772,71 +816,6 @@ $Date: Tue Apr 21 07:26:52 2009 -0700$&lt;/p&gt;
 &lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/juegos/azure015.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Nights of Azure 2: Bride of the New Moon&lt;/strong&gt; se lanzará en febrero de 2017 en las PlayStation 4 y PSVita japonesas. Su lanzamiento en occidente está anunciado pero de momento no se ha concretado fecha.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Los JRPGs siguen gustando mucho en Japon</title>
-      <link>http://lpinchol.github.io/post/jrpgs-japoneses/</link>
-      <pubDate>Mon, 28 Nov 2016 20:31:17 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/jrpgs-japoneses/</guid>
-      <description>
-
-&lt;h1 id=&#34;los-jrpgs-siguen-gustando-mucho-en-japón&#34;&gt;Los JRPGs siguen gustando mucho en Japón&lt;/h1&gt;
-
-&lt;p&gt;Aunque los JRPGs están sufriendo de ciertos problemas relevantes en tierras niponas, es indiscutible que su ritmo de lanzamientos y su calidad no ha descendido en estos últimos años. Los RPGs siguen gustando en Japón y los títulos de este género nacidos en tierras niponas siguen teniendo un tirón evidente, por mucho que muchos quisieron darlo por perdido.&lt;/p&gt;
-
-&lt;p&gt;Una prueba más de esto lo tenemos con el último especial de la revista Famitsu, la más importante para los videojuegos en la isla, y también con bastante influencia fuera de sus fronteras, ha preguntado a sus lectores cuáles consideran como los títulos más importantes de PlayStation 3, coincidiendo con el décimo aniversario del sistema.&lt;/p&gt;
-
-&lt;p&gt;Aunque este tipo de listas suele ser subjetivas y muchas veces no reflejan la realidad, resulta llamativo la gran cantidad de RPGs que los nipones han incluído entre los más relevantes:
-&amp;gt; *Demon&amp;rsquo;s Souls (288)&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;*The Last of Us (241)&lt;/p&gt;
-
-&lt;p&gt;*Dark Souls (216)&lt;/p&gt;
-
-&lt;p&gt;*Final Fantasy XIII (201)&lt;/p&gt;
-
-&lt;p&gt;*Metal Gear Solid 4: Guns of the Patriots (200)&lt;/p&gt;
-
-&lt;p&gt;*NieR (197)&lt;/p&gt;
-
-&lt;p&gt;*Valkyria Chronicles (186)&lt;/p&gt;
-
-&lt;p&gt;*Tales of Vesperia (181)&lt;/p&gt;
-
-&lt;p&gt;*Uncharted 2: Among Thieves (170)&lt;/p&gt;
-
-&lt;p&gt;*Dragon’s Dogma: Dark Arisen (168)&lt;/p&gt;
-
-&lt;p&gt;*MAG (160)&lt;/p&gt;
-
-&lt;p&gt;*Grand Theft Auto V (155)&lt;/p&gt;
-
-&lt;p&gt;*Resonance of Fate (146)&lt;/p&gt;
-
-&lt;p&gt;*Mobile Suit Gundam: Extreme Vs. Full Boost (138)&lt;/p&gt;
-
-&lt;p&gt;*The Elder Scrolls V: Skyrim (131)&lt;/p&gt;
-
-&lt;p&gt;*Call of Duty: Black Ops II (120)&lt;/p&gt;
-
-&lt;p&gt;*Uncharted 3: Drake’s Deception (114)&lt;/p&gt;
-
-&lt;p&gt;*Journey (108)&lt;/p&gt;
-
-&lt;p&gt;*Yakuza 5 (99)&lt;/p&gt;
-
-&lt;p&gt;*Mainichi Issho (89)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sobran las palabras: 9 de los 20 juegos de la lista (Que llega a 30, con Persona 5 ocupando el puesto 23) forman parte de nuestro género favorito. Además, parece que también les gusta barrer para casa ya que ocho de ellos son JRPGs, siendo solo Skyrim el que se abre hueco entre ellos (otras importantes propuestas, como Fallout o Mass effect no parecen calar tan bien), si bien resulta evidente que los Souls distan mucho de tener una estética oriental y copan los primeros puestos, destacando el caso que el menos conocido de la serie, por ser el primero, es el que domina la lista.&lt;/p&gt;
-
-&lt;p&gt;Sorprende (desde un punto de vista occidental) la posición de Final Fantasy XIII, demasiado arriba para lo que muchos pensarían. Sin embargo, a pesar de las críticas, el primer título de Lightning es también uno de los más respetados en tierras niponas. También podemos ver a Nier en sexta posición, un diamante en bruto para muchos, pero que no llegó a cuajar su propuesta ni mucho menos. Seguramente, la cercanía de su secuela ha ayudado a que gane fuerza la idea de que muchos dejaron pasar esa joya. Lo de que el único juego de la serie Tales of que se cuele entre los 20 más relevantes empezase siendo una exclusividad de Xbox 360 (De hecho, sigue siendo exclusivo en occidente) resulta también llamativo, aunque casa con la idea que comparten muchos jugadores que consideran a esa entrega como la mejor de la saga reciente.&lt;/p&gt;
-
-&lt;p&gt;Que otro título no-tan-comercial como Resonance of Fate también aparezca por la lista y sea el único RPG sin secuela de los observados, es otra sorpresa más de este listado.&lt;/p&gt;
 </description>
     </item>
     
