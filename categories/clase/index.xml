@@ -10,6 +10,47 @@
     <atom:link href="http://lpinchol.github.io/categories/clase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Seguimiento Audiovisual Final</title>
+      <link>http://lpinchol.github.io/post/seguimiento-audiovisual/</link>
+      <pubDate>Tue, 31 Jan 2017 17:05:10 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/seguimiento-audiovisual/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Despues de estudiar y ramificar toda la estructura de la historia del &lt;strong&gt;tartaro&lt;/strong&gt; (Origen, grecia, actualidad). Se desarrollan las tecnicas aprendidas y el estilo de metodologia para el proyecto en si.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Cuando &lt;strong&gt;por fin&lt;/strong&gt; llegamos al tema de la creacion del proyecto, creo que es mejor empezar resumiendo un poco cada punto del apartado, para que sea como un mini indice, asi tener las cosas mas claras.&lt;/p&gt;
+
+&lt;p&gt;Luego en la creacion del proyecto, lo bueno es seguir con la presentacion del git y los ajustes del proyecto. Terminando con los ajustes generales de graficos y entorno.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1º    Estructuracion del proyecto.
+2º    Metodologia de uso.
+3º    Settings del player.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Despues definiriamos la composicion de las escenas y las pruebas realizadas en ellas.
+Como por ejemplo, la escena de Alexandria seria para las pruebas de composicion de modulos, escalas o la preparacion de la camara.&lt;/p&gt;
+
+&lt;p&gt;Ahora la previsualizacion de todas las escenas.&lt;/p&gt;
+
+&lt;p&gt;Luego iluminacion y efectos de camara.&lt;/p&gt;
+
+&lt;p&gt;y una pequeña conclusion junto la autocritica y la bibliografia.&lt;/p&gt;
+
+&lt;p&gt;^&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Terminando el Rigeo en 3DMax</title>
       <link>http://lpinchol.github.io/post/terminando-rigear-3dmax/</link>
       <pubDate>Wed, 25 Jan 2017 17:53:17 +0100</pubDate>

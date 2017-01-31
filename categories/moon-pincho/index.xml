@@ -10,6 +10,47 @@
     <atom:link href="http://lpinchol.github.io/categories/moon-pincho/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Seguimiento Audiovisual Final</title>
+      <link>http://lpinchol.github.io/post/seguimiento-audiovisual/</link>
+      <pubDate>Tue, 31 Jan 2017 17:05:10 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/seguimiento-audiovisual/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Despues de estudiar y ramificar toda la estructura de la historia del &lt;strong&gt;tartaro&lt;/strong&gt; (Origen, grecia, actualidad). Se desarrollan las tecnicas aprendidas y el estilo de metodologia para el proyecto en si.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Cuando &lt;strong&gt;por fin&lt;/strong&gt; llegamos al tema de la creacion del proyecto, creo que es mejor empezar resumiendo un poco cada punto del apartado, para que sea como un mini indice, asi tener las cosas mas claras.&lt;/p&gt;
+
+&lt;p&gt;Luego en la creacion del proyecto, lo bueno es seguir con la presentacion del git y los ajustes del proyecto. Terminando con los ajustes generales de graficos y entorno.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1º    Estructuracion del proyecto.
+2º    Metodologia de uso.
+3º    Settings del player.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Despues definiriamos la composicion de las escenas y las pruebas realizadas en ellas.
+Como por ejemplo, la escena de Alexandria seria para las pruebas de composicion de modulos, escalas o la preparacion de la camara.&lt;/p&gt;
+
+&lt;p&gt;Ahora la previsualizacion de todas las escenas.&lt;/p&gt;
+
+&lt;p&gt;Luego iluminacion y efectos de camara.&lt;/p&gt;
+
+&lt;p&gt;y una pequeña conclusion junto la autocritica y la bibliografia.&lt;/p&gt;
+
+&lt;p&gt;^&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pintura Del Dia -30-01-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-30-01-2017/</link>
       <pubDate>Mon, 30 Jan 2017 23:01:16 +0100</pubDate>
@@ -977,32 +1018,6 @@ Implementar un Reflection Probe para ver el reflejo de las zonas donde se quiera
 &lt;p&gt;Pero el jugador no se ilumina bien por lo que creamos grupos de probes para conseguir toda la reflexion posible.&lt;/p&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh06.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>El anime Ai Mai Mi confirma que tendrá tercera temporada</title>
-      <link>http://lpinchol.github.io/post/aimaimitercera/</link>
-      <pubDate>Mon, 07 Nov 2016 02:50:47 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/aimaimitercera/</guid>
-      <description>
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/anime/AiMaiMe.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;el-anime-ai-mai-mi-confirma-que-tendrá-tercera-temporada&#34;&gt;El anime Ai Mai Mi confirma que tendrá tercera temporada&lt;/h1&gt;
-
-&lt;p&gt;Fuga Hatori, compositor musical de las dos temporadas de la adaptación televisiva animada del manga 4-koma Ai Mai Mi de Choboraunyopomi, ha revelado que en el evento “ani x wara” celebrado este fin de semana se ha anunciado la producción de una tercera temporada que se estrenará en enero.&lt;/p&gt;
-
-&lt;p&gt;Itsuki Imazaki regresará para dirigir la nueva serie bajo el estudio de animación Seven al igual que ya hiciera con las dos primeras temporadas. Fuga Hatori también regresará desde las dos temporadas anteriores como compositor musical. Dream Creation se encarga de la producción, mientras que Dax Production hará lo propio con la producción de sonido.&lt;/p&gt;
-
-&lt;p&gt;Aya Uchida, Maaya Uchida y Yuka Otsubo retomarán sus roles como Mai, Mi y Ai respectivamente. Las tres seiyuus interpretaron los openings de las dos anteriores temporadas.&lt;/p&gt;
-
-&lt;p&gt;Anteriormente ya se había desvelado esta información vía una tira cómica del manga en la web oficial del manga, aunque se retiraba posteriormente sin confirmarse la información.&lt;/p&gt;
-
-&lt;p&gt;El manga está protagonizado por las chicas de un club de manga que lo mismo luchan contra malvados invasores extraterrestres, que se enfrentan a rivales en torneos o lidian con todo tipo de situaciones absurdas. De todo, menos dibujar manga como deberían.&lt;/p&gt;
-
-&lt;p&gt;La primera adaptación animada llegaba en 2013, siguiéndole su secuela en 2014.&lt;/p&gt;
 </description>
     </item>
     

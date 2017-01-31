@@ -10,6 +10,47 @@
     <atom:link href="http://lpinchol.github.io/tags/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Seguimiento Audiovisual Final</title>
+      <link>http://lpinchol.github.io/post/seguimiento-audiovisual/</link>
+      <pubDate>Tue, 31 Jan 2017 17:05:10 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/seguimiento-audiovisual/</guid>
+      <description>
+
+&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Despues de estudiar y ramificar toda la estructura de la historia del &lt;strong&gt;tartaro&lt;/strong&gt; (Origen, grecia, actualidad). Se desarrollan las tecnicas aprendidas y el estilo de metodologia para el proyecto en si.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Cuando &lt;strong&gt;por fin&lt;/strong&gt; llegamos al tema de la creacion del proyecto, creo que es mejor empezar resumiendo un poco cada punto del apartado, para que sea como un mini indice, asi tener las cosas mas claras.&lt;/p&gt;
+
+&lt;p&gt;Luego en la creacion del proyecto, lo bueno es seguir con la presentacion del git y los ajustes del proyecto. Terminando con los ajustes generales de graficos y entorno.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1º    Estructuracion del proyecto.
+2º    Metodologia de uso.
+3º    Settings del player.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Despues definiriamos la composicion de las escenas y las pruebas realizadas en ellas.
+Como por ejemplo, la escena de Alexandria seria para las pruebas de composicion de modulos, escalas o la preparacion de la camara.&lt;/p&gt;
+
+&lt;p&gt;Ahora la previsualizacion de todas las escenas.&lt;/p&gt;
+
+&lt;p&gt;Luego iluminacion y efectos de camara.&lt;/p&gt;
+
+&lt;p&gt;y una pequeña conclusion junto la autocritica y la bibliografia.&lt;/p&gt;
+
+&lt;p&gt;^&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pintura Del Dia -30-01-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-30-01-2017/</link>
       <pubDate>Mon, 30 Jan 2017 23:01:16 +0100</pubDate>
@@ -937,66 +978,6 @@ Normal Direction: Direccion de la normal&lt;/p&gt;
 &lt;p&gt;Este retraso de unos días se debe a unas cuestiones evidentes de logística que, de nuevo, habría que apuntar a los problemas de distribuidoras como NIS en Europa, que ha delegado en Namco Bandai las labores de distribución de este título en nuestro país. ¿Y qué pasa si lo hace la última hora? Pues que Namco Bandai no puede distribuir todas las copias del título de Nihon Falcom en la fecha prevista.&lt;/p&gt;
 
 &lt;p&gt;Así, pues, a los que vayamos a adquirir la copia física del juego (Puesto que, digitalmente, sí estará disponible el 11, aunque su venta no computará a España) nos tocará esperar cuatro días extra. Pero, bueno, de mientras podemos hypearnos leyendo los análisis de su lanzamiento en otras regiones. Son solo unos días más.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bakeo simple en Unity3d</title>
-      <link>http://lpinchol.github.io/post/Lighting-bake/</link>
-      <pubDate>Mon, 07 Nov 2016 09:28:50 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Lighting-bake/</guid>
-      <description>
-
-&lt;h1 id=&#34;bakeo-simple-en-unity3d&#34;&gt;Bakeo simple en Unity3d&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh00.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Primero preparamos la escena, con colores planos (simples) y algun objeto para representar en la escena, como una
-esfera.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh01.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego configuramos la iluminacion para el quemado. Lo mas importante seria el echo de quitar el bakeo y seleccionar en tiempo real para preparar la escena entera.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh02.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Añadimos una pequeña animacion para el movimiento de la luz direccional para ver en tiempo real el movimiento y si esta bien configurado.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;
-public float v = 5;
-private void Update(){transform.Rotate(new Vector3(0,v,0),Space.World);}
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Despues de ver que todo funciona correctamente.
-Implementar un Reflection Probe para ver el reflejo de las zonas donde se quieran reflejar.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Configurar el probe:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;Tipo de reflejo&lt;/li&gt;
-&lt;li&gt;Cuando refresca&lt;/li&gt;
-&lt;li&gt;Resolucion&lt;/li&gt;
-&lt;li&gt;HDR&lt;/li&gt;
-&lt;li&gt;Etc..&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Luego importamos el paquete de unity de characters y instanciamos unos cuantos personajes con AI y un nav mesh para que se pueda mover.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh04.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego ponemos una esfera o un cubo de objetivo y al darle play el personaje seguira al objetivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Pero el jugador no se ilumina bien por lo que creamos grupos de probes para conseguir toda la reflexion posible.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh06.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
