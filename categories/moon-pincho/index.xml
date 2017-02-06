@@ -10,6 +10,44 @@
     <atom:link href="http://lpinchol.github.io/categories/moon-pincho/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Grupos y Grupos</title>
+      <link>http://lpinchol.github.io/post/grupos-y-grupos/</link>
+      <pubDate>Mon, 06 Feb 2017 02:42:16 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/grupos-y-grupos/</guid>
+      <description>
+
+&lt;h1 id=&#34;hacer-grupos-con-gente-para-proyectos&#34;&gt;Hacer grupos con gente para proyectos&lt;/h1&gt;
+
+&lt;p&gt;Bueno despues de este año, me a parecido que la mayoria de gente que &lt;strong&gt;realmente&lt;/strong&gt; quiere o le interesa hacer grupos con otros, los hacen, pero ¿cual es el incentivo que te hace ingresar en un grupo?&lt;/p&gt;
+
+&lt;p&gt;Bueno creo que son 3 diferentes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intriga&lt;/li&gt;
+&lt;li&gt;Cooperacion&lt;/li&gt;
+&lt;li&gt;Interes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Despues de trabajar en un grupo de trabajo de una empresa pequeña, descubri que trabajar en equipo es una experiencia maravillosa, nunca habia tenido ningun problema y realmente todos nos ayudabamos entre nosotros.&lt;/p&gt;
+
+&lt;p&gt;Pero luego, entre a terminar el grado, me encontre en la situacion de el 95% de mis compañeros, menores de 25 años, sin ninguna experiencia laboral, una disciplina nula en las aulas y lo peor de todo, una conveniencia impresionante por algunos en otros.&lt;/p&gt;
+
+&lt;p&gt;Hace poco, un compañero con el que hacia grupo, me dijo que no le daba tiempo a terminar el trabajo que tenia que realizar para la asignatura en la que estabamos trabajando juntos, por lo que tuve que realizar una rapida alpha para presentar sobre otro tema. Luego vimos que nos dieron 5 dias mas, no daba tiempo a terminar el proyecto inicial pero si que podriamos poblar mas el alpha creada, todo esto haciendolo todo yo y reusando el modelado que hizo mi compañero para que al menos le pusieran algo de nota.&lt;/p&gt;
+
+&lt;p&gt;Pues me sento muy mal, que no aprovechara la idea de tener mas dias, se fue a trabajar en un trabajo que tiene externo, y me dejo ami sin pasarme lo que establecimos y a 8 horas de la entrega del proyecto, es la 2 vez que me deja tirado, despues de pedirme disculpas en la primera ocasion.&lt;/p&gt;
+
+&lt;p&gt;Creo que ya no dare la cara mas por el. Espero que no haya una tercera, si no perdera mucho como persona para mi.&lt;/p&gt;
+
+&lt;p&gt;La semana pasada, entre en contacto con los que considero , los mas responsables de la clase y me mostraron un proyecto en el que pude entrar, para presentarlo como TFG.&lt;/p&gt;
+
+&lt;p&gt;Me gusto mucho la idea y las personas que formabamos el grupo. ¿Pero saldra bien? Espero que si, de momento, poner todo lo que tengo en este proyecto para dar lo mejor de uno.&lt;/p&gt;
+
+&lt;p&gt;Espero que todo salga bien. ^^&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Seguimiento Audiovisual Final</title>
       <link>http://lpinchol.github.io/post/seguimiento-audiovisual/</link>
       <pubDate>Tue, 31 Jan 2017 17:05:10 +0100</pubDate>
@@ -958,66 +996,6 @@ Normal Direction: Direccion de la normal&lt;/p&gt;
 &lt;p&gt;Reflection Probes: Si se utiliza reflection&lt;/p&gt;
 
 &lt;p&gt;Anchor override: La posicion&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bakeo simple en Unity3d</title>
-      <link>http://lpinchol.github.io/post/Lighting-bake/</link>
-      <pubDate>Mon, 07 Nov 2016 09:28:50 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Lighting-bake/</guid>
-      <description>
-
-&lt;h1 id=&#34;bakeo-simple-en-unity3d&#34;&gt;Bakeo simple en Unity3d&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh00.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Primero preparamos la escena, con colores planos (simples) y algun objeto para representar en la escena, como una
-esfera.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh01.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego configuramos la iluminacion para el quemado. Lo mas importante seria el echo de quitar el bakeo y seleccionar en tiempo real para preparar la escena entera.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh02.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Añadimos una pequeña animacion para el movimiento de la luz direccional para ver en tiempo real el movimiento y si esta bien configurado.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;
-public float v = 5;
-private void Update(){transform.Rotate(new Vector3(0,v,0),Space.World);}
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Despues de ver que todo funciona correctamente.
-Implementar un Reflection Probe para ver el reflejo de las zonas donde se quieran reflejar.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh03.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Configurar el probe:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;Tipo de reflejo&lt;/li&gt;
-&lt;li&gt;Cuando refresca&lt;/li&gt;
-&lt;li&gt;Resolucion&lt;/li&gt;
-&lt;li&gt;HDR&lt;/li&gt;
-&lt;li&gt;Etc..&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Luego importamos el paquete de unity de characters y instanciamos unos cuantos personajes con AI y un nav mesh para que se pueda mover.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh04.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego ponemos una esfera o un cubo de objetivo y al darle play el personaje seguira al objetivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh05.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Pero el jugador no se ilumina bien por lo que creamos grupos de probes para conseguir toda la reflexion posible.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/unity/ligh06.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
