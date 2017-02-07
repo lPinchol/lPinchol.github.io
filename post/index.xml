@@ -7,14 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
-<<<<<<< HEAD
-    <lastBuildDate>Tue, 07 Feb 2017 19:00:43 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2017 19:00:43 +0100</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pintura Del Dia -08-02-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-08-02-2017/</link>
-      <pubDate>Tue, 07 Feb 2017 19:00:43 +0100</pubDate>
+      <pubDate>Wed, 08 Feb 2017 19:00:43 +0100</pubDate>
       
       <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-08-02-2017/</guid>
       <description>
@@ -74,9 +73,8 @@
 &lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/Wx24D&#34; class=&#34;button&#34;&gt;yue yue&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;- Moon Pincho&lt;/p&gt;
-=======
-    <lastBuildDate>Mon, 06 Feb 2017 15:47:25 +0100</lastBuildDate>
-    <atom:link href="http://lpinchol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+</description>
+    </item>
     
     <item>
       <title>Primera reunion sobre el TFG</title>
@@ -172,7 +170,6 @@
 &lt;h1 id=&#34;finalidad&#34;&gt;Finalidad&lt;/h1&gt;
 
 &lt;p&gt;Resultado en &lt;a href=&#34;https://www.youtube.com/watch?v=5hcJbQuWv0U&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
->>>>>>> 6052cb6d229b8e3464488d2ba284e15fdb34e3db
 </description>
     </item>
     
@@ -891,60 +888,5 @@ $Date: Tue Apr 21 07:26:52 2009 -0700$&lt;/p&gt;
 </description>
     </item>
     
-    <item>
-      <title>Feliz Navidad 2016</title>
-      <link>http://lpinchol.github.io/post/feliznavidad2016/</link>
-      <pubDate>Sat, 31 Dec 2016 03:30:57 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/feliznavidad2016/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/personal/navidad-2016.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Feliz navidad y prospero año nuevo !!!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://github.com/lPinchol&#34; class=&#34;button&#34;&gt;GitHub Repositorios&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-<<<<<<< HEAD
-=======
-    <item>
-      <title>Pintura Del Dia -28-12-016-</title>
-      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-28-12-2016/</link>
-      <pubDate>Wed, 28 Dec 2016 15:36:23 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-28-12-2016/</guid>
-      <description>
-
-&lt;h1 id=&#34;center-imagen-del-dia-28-12-2016-center-br&#34;&gt;&lt;center&gt;Imagen del dia [28.12.2016]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/33.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;center&gt;Recatada Anime.&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pintura Del Dia -27-12-016-</title>
-      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-27-12-2016/</link>
-      <pubDate>Tue, 27 Dec 2016 15:25:32 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-27-12-2016/</guid>
-      <description>
-
-&lt;h1 id=&#34;center-imagen-del-dia-27-12-2016-center-br&#34;&gt;&lt;center&gt;Imagen del dia [27.12.2016]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/32.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;center&gt;Una sucubu anime.&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
->>>>>>> 6052cb6d229b8e3464488d2ba284e15fdb34e3db
   </channel>
 </rss>
