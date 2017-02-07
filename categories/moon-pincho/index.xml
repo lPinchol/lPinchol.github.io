@@ -10,6 +10,70 @@
     <atom:link href="http://lpinchol.github.io/categories/moon-pincho/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+<<<<<<< HEAD
+      <title>Pintura Del Dia -08-02-2017-</title>
+      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-08-02-2017/</link>
+      <pubDate>Tue, 07 Feb 2017 19:00:43 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-08-02-2017/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-imagen-del-dia-08-02-2017-center-br&#34;&gt;&lt;center&gt;Imagen del dia [08.02.2017]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/39.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;center&gt;Una rogue de los bosques. ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/XYB2D&#34; class=&#34;button&#34;&gt;Circle Art&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;- Moon Pincho&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pintura Del Dia -07-02-2017-</title>
+      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-07-02-2017/</link>
+      <pubDate>Tue, 07 Feb 2017 18:56:30 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-07-02-2017/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-imagen-del-dia-07-02-2017-center-br&#34;&gt;&lt;center&gt;Imagen del dia [07.02.2017]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/38.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;center&gt;Lucilla, una vampira dragon (figura). ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/kB0Xy&#34; class=&#34;button&#34;&gt;Vadim Bakhlychev&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;- Moon Pincho&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pintura Del Dia -06-02-2017-</title>
+      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-06-02-2017/</link>
+      <pubDate>Tue, 07 Feb 2017 18:47:02 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-06-02-2017/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-imagen-del-dia-06-02-2017-center-br&#34;&gt;&lt;center&gt;Imagen del dia [06.02.2017]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/37.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;center&gt;Una Sorcerer dragona, con un acabado muy bueno a mi gusto. ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/Wx24D&#34; class=&#34;button&#34;&gt;yue yue&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;- Moon Pincho&lt;/p&gt;
+=======
       <title>Primera reunion sobre el TFG</title>
       <link>http://lpinchol.github.io/post/primera-reunion-tfg/</link>
       <pubDate>Mon, 06 Feb 2017 15:47:25 +0100</pubDate>
@@ -103,6 +167,7 @@
 &lt;h1 id=&#34;finalidad&#34;&gt;Finalidad&lt;/h1&gt;
 
 &lt;p&gt;Resultado en &lt;a href=&#34;https://www.youtube.com/watch?v=5hcJbQuWv0U&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+>>>>>>> 6052cb6d229b8e3464488d2ba284e15fdb34e3db
 </description>
     </item>
     
@@ -837,6 +902,8 @@ $Date: Tue Apr 21 07:26:52 2009 -0700$&lt;/p&gt;
 </description>
     </item>
     
+<<<<<<< HEAD
+=======
     <item>
       <title>Nights of Azure 2 presenta a Arnice, a Christophorus y revela más detalles</title>
       <link>http://lpinchol.github.io/post/NightOfAzure2Presenta/</link>
@@ -987,5 +1054,6 @@ $Date: Tue Apr 21 07:26:52 2009 -0700$&lt;/p&gt;
 </description>
     </item>
     
+>>>>>>> 6052cb6d229b8e3464488d2ba284e15fdb34e3db
   </channel>
 </rss>
