@@ -10,6 +10,42 @@
     <atom:link href="http://lpinchol.github.io/categories/unity3d/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MTodo Tool - Unity3D</title>
+      <link>http://lpinchol.github.io/post/mtodo-tools/</link>
+      <pubDate>Thu, 09 Feb 2017 04:20:42 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/mtodo-tools/</guid>
+      <description>
+
+&lt;h1 id=&#34;center-mtodo-tool-unity3d-center-br&#34;&gt;&lt;center&gt;MTodo Tool - Unity3D&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
+
+&lt;p&gt;Herramienta sencilla para hacer un seguimiento del codigo en Unity3D&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/Dev/mtodo.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;MTodo analiza la sintaxis de tu codigo con categorias.
+Por ejemplo, supongamos que tienes una categoria de BUG.&lt;/p&gt;
+
+&lt;p&gt;En la linea de tu codigo donde se encuentra ese bug, pondria :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;// &amp;lt; Categoria &amp;gt; &amp;lt; Mensaje &amp;gt;&lt;/p&gt;
+
+&lt;p&gt;// BUG Aqui hay un bug.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;De este modo, tendras en un sitio todos los mensajes que vallas dejando, siempre y cuando uses primero la categoria.&lt;/p&gt;
+
+&lt;p&gt;Despues solo tienes que ir, dandole click en el mensaje, y se te abrira tu IDE por la linea donde esta.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://github.com/lPinchol/MTodo&#34; class=&#34;button&#34;&gt;GitHub&lt;/a&gt;&lt;/center&gt;
+&lt;center&gt;&lt;a href=&#34;https://trello.com/b/ZPmPLDJ8&#34; class=&#34;button&#34;&gt;Trello&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;- Moon Pincho&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bakeo simple en Unity3d</title>
       <link>http://lpinchol.github.io/post/Lighting-bake/</link>
       <pubDate>Mon, 07 Nov 2016 09:28:50 +0100</pubDate>
