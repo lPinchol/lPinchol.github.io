@@ -10,6 +10,135 @@
     <atom:link href="http://lpinchol.github.io/categories/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mecanicas TFG - Investigacion</title>
+      <link>http://lpinchol.github.io/post/mecanicas-tfg-prototipadas/</link>
+      <pubDate>Wed, 15 Feb 2017 01:54:40 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/mecanicas-tfg-prototipadas/</guid>
+      <description>
+
+&lt;h1 id=&#34;mecanicas-presentadas-para-el-tfg&#34;&gt;Mecanicas presentadas para el TFG&lt;/h1&gt;
+
+&lt;p&gt;Al comienzo de la investigacion, se propuso unas mecanicas Hack &amp;amp; Slash estilo Devil May Cry, en base a ellas, vimos varias propuestas y redactamos lo que serian los cimientos de las &lt;strong&gt;mecanicas&lt;/strong&gt; &amp;amp; algunas &lt;strong&gt;funcionalidades&lt;/strong&gt; previstas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Accionar y combinar combos, entre 4 estilos de lucha:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Ataque fuerte.&lt;/li&gt;
+&lt;li&gt;Ataque rapido.&lt;/li&gt;
+&lt;li&gt;Ataque a distancia.&lt;/li&gt;
+&lt;li&gt;Salto / Salto doble.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tambien tiene extras como:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Esquive.&lt;/li&gt;
+&lt;li&gt;Bloqueo.&lt;/li&gt;
+&lt;li&gt;Cambio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Camara en 3ª Persona.&lt;/li&gt;
+&lt;li&gt;El pivote de la camara siempre esta fijada en la cabeza del personaje.&lt;/li&gt;
+&lt;li&gt;La camara no cambia el pivote nunca, solo el campo de vision se altera.&lt;/li&gt;
+&lt;li&gt;Combinacion de acciones para realizar combos.&lt;/li&gt;
+&lt;li&gt;El jugado podra ir desbloqueando partes del combo con forme luche.&lt;/li&gt;
+&lt;li&gt;El jugador podra cambiar al personaje, con lo que cambia el estilo de lucha (Ej: Armas =&amp;gt; Mele)&lt;/li&gt;
+&lt;li&gt;Con cada combo sin cortar la cadena, el jugador recibe como recompensa rabia, la rabia puede llegar a nivel 3, cuando esta llega, el jugador puede consumir toda la rabia y ser imparable durante un tiempo.&lt;/li&gt;
+&lt;li&gt;Cuando el jugador derrota a todos los enemigos de la zona, al ultimo le realiza un fatality en camara lenta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Asi que teniendo todas las mecanicas pensadas, habria que ver si entran en un controller, que con pc no habria problema pero al ser un controller de mando, hay que crear una pequeña tabla.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Boton&lt;/th&gt;
+&lt;th&gt;Accion&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;Salto&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;Ataque Distancia&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Ataque Fuerte&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;Ataque Rapido&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;RB&lt;/td&gt;
+&lt;td&gt;Fijar Objetivo&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;RT&lt;/td&gt;
+&lt;td&gt;Esquivar&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;LB&lt;/td&gt;
+&lt;td&gt;Cambio&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;LT&lt;/td&gt;
+&lt;td&gt;Bloquear&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;Menu&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Back&lt;/td&gt;
+&lt;td&gt;Habilidades&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Stick derecho&lt;/td&gt;
+&lt;td&gt;Mover Camara&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Stick Izquierdo&lt;/td&gt;
+&lt;td&gt;Mover Personaje&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Ahora como objetivo, me queria enfocar mas al tema &lt;strong&gt;Nier : Automata&lt;/strong&gt;, se asemeja mucho a Devil May Cry, pero es mucho mas rapido e intuitivo, realmente nier esta pensado para una lucha rapida y tactica en su nivel normal, de lo que me e dado cuenta es que DMC en su nivel normal es simplemente atacar atacar y mas atacar.&lt;/p&gt;
+
+&lt;p&gt;En esta parte entrare mas adelante, ya que creo que tiene mucho que ver la combinacion de ataques y la IA de los diferentes enemigos, por lo que se nos sale de lo que quiero tener para el miercoles.&lt;/p&gt;
+
+&lt;p&gt;.Save&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Investigacion Monomito</title>
       <link>http://lpinchol.github.io/post/monomito/</link>
       <pubDate>Fri, 10 Feb 2017 03:52:33 +0100</pubDate>
@@ -834,58 +963,6 @@ Como por ejemplo, la escena de Alexandria seria para las pruebas de composicion 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;center&gt;Brave, la princesa de mayor ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Intentando Riggear en 3DMax - 1ª Parte</title>
-      <link>http://lpinchol.github.io/post/intentando-rigear-3dmax/</link>
-      <pubDate>Wed, 18 Jan 2017 20:23:03 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/intentando-rigear-3dmax/</guid>
-      <description>
-
-&lt;h1 id=&#34;riggear-para-salvarte-el-culo-1ª-parte&#34;&gt;Riggear para salvarte el culo 1ª Parte&lt;/h1&gt;
-
-&lt;p&gt;Bueno y aqui estamos, intentando riggear en 3d max para la asignatura de 3º de Setup, la verdad que todas las asignaturas de riggeo y animacion, no son lo mio, a parte de que no me gustan &amp;hellip; son pesadas y muy repetitivas.&lt;/p&gt;
-
-&lt;p&gt;Le pedi al profesor David Amado un modelo de un juego suyo para hacer la practica, ya que despues de 3 modelos, ninguno le convencio.&lt;/p&gt;
-
-&lt;p&gt;O la malla era muy densa, o no tenia que llevar falda&amp;hellip; nose, cosas raras, la verdad que si encima de que intento ponerme un reto, van y no me dejan &amp;hellip; la asignatura se vuelve menos .. como decirlo, interesante.&lt;/p&gt;
-
-&lt;p&gt;Por lo que en este caso, decidi que me prestara un modelo (a mi parecer de la generacion antigua) y asi me quitaba los calentamientos de cabeza.&lt;/p&gt;
-
-&lt;p&gt;Asi empezo la cosa, por los pies.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Una simple pierna, rigeada.&lt;/p&gt;
-
-&lt;p&gt;Sobre todo, lo mas importante, es que todo este bien organizado, ya que se te acumulara tal numero de nodos que al terminar sera un lio si no organizas bien tu rigging.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Pierna4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Yo , a parte de crear la memoria (necesaria para todas las asignaturas, tambien en una libretica que siempre llevo con migo) me voy escribiendo una guia, aunque no me guste riggear, nunca sabes lo que puedes necesitar el dia de mañana, asique no esta de mal. ^^&lt;/p&gt;
-
-&lt;p&gt;Bien, ahora seguiriamos por los brazos, unas cosas mas raras &amp;hellip; La composicion de huesos es logica, pero cambia segun el modelo, por suerte , el modelo que me a dejado el profesor es bastante simple, por lo que no habra mucho problema. :D&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Hay que ir creando huesos end en cada terminacion y haciendo un constrain de posicion desde el hueso siguiente hasta los huesos ends creados anteriormente.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Nose si habra una mejor manera, pero desde luego &lt;strong&gt;Hasta el momento&lt;/strong&gt; me gusta mas la forma de trabajar en Malla.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/Brazos4.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;Asi vamos terminando la fase de los brazos y empezando el tronco.&lt;/p&gt;
-
-&lt;p&gt;Pero no, se ve que era mucho pedir jajajaja, asi que ahora hay que hacer todos los controladores del brazo &amp;ldquo;Auxiliares&amp;rdquo; y los de los dedos. Bastante mas tedioso de lo que pensaba ^^&lt;/p&gt;
-
-&lt;p&gt;Ahora si que si, nos vamos al tronco. Pero eso sera en otra entrada.&lt;/p&gt;
-
-&lt;p&gt;Saludos.&lt;/p&gt;
 </description>
     </item>
     

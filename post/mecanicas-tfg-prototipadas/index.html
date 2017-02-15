@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="es-es">
+<head>
+	<title>Mecanicas TFG - Investigacion&middot; lPinchol Moon&#39;s Blog</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="lPinchol, Moon">
+	<meta name="description" content="un blog sobre mi, juegos, desarrollo y anime">
+	<meta name="keywords" content="Moon,Pincho,Dev">
+	<meta name="generator" content="Hugo 0.17" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://lpinchol.github.io/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://lpinchol.github.io/favicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <header class="site-header">
+	<div class="branding">
+		<a href="http://lpinchol.github.io/">
+		<img class="avatar" src="http://lpinchol.github.io/img/avatar.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://lpinchol.github.io/">lPinchol Moon&#39;s Blog</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+	      	<li><a href="/about/"> About </a></li>
+
+	      	<li>
+	<a href="http://lpinchol.github.io/" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li>
+	<a href="http://lpinchol.github.io/index.xml" title="Subscribirte">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li>
+	<a href="mailto:moon@lpinchol.xyz" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="https://bitbucket.org/lPinchol" title="Bitbucket">
+		<i class="fa fa-fw fa-bitbucket"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://github.com/lPinchol" title="GitHub">
+		<i class="fa fa-fw fa-github"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    </ul>
+	</nav>
+</header>
+
+
+    <div class="content">
+    <article class="feature-image">
+		<header style="background-image: url('http://lpinchol.github.io/img/bg.png')">
+			<h1 class="title">Mecanicas TFG - Investigacion</h1>
+		</header>
+
+	<section class="post-content">
+		
+
+<h1 id="mecanicas-presentadas-para-el-tfg">Mecanicas presentadas para el TFG</h1>
+
+<p>Al comienzo de la investigacion, se propuso unas mecanicas Hack &amp; Slash estilo Devil May Cry, en base a ellas, vimos varias propuestas y redactamos lo que serian los cimientos de las <strong>mecanicas</strong> &amp; algunas <strong>funcionalidades</strong> previstas:</p>
+
+<blockquote>
+<ul>
+<li>Accionar y combinar combos, entre 4 estilos de lucha:</li>
+</ul>
+
+<blockquote>
+<ul>
+<li>Ataque fuerte.</li>
+<li>Ataque rapido.</li>
+<li>Ataque a distancia.</li>
+<li>Salto / Salto doble.</li>
+</ul>
+</blockquote>
+
+<p>Tambien tiene extras como:</p>
+
+<blockquote>
+<ul>
+<li>Esquive.</li>
+<li>Bloqueo.</li>
+<li>Cambio.</li>
+</ul>
+</blockquote>
+
+<ul>
+<li>Camara en 3ª Persona.</li>
+<li>El pivote de la camara siempre esta fijada en la cabeza del personaje.</li>
+<li>La camara no cambia el pivote nunca, solo el campo de vision se altera.</li>
+<li>Combinacion de acciones para realizar combos.</li>
+<li>El jugado podra ir desbloqueando partes del combo con forme luche.</li>
+<li>El jugador podra cambiar al personaje, con lo que cambia el estilo de lucha (Ej: Armas =&gt; Mele)</li>
+<li>Con cada combo sin cortar la cadena, el jugador recibe como recompensa rabia, la rabia puede llegar a nivel 3, cuando esta llega, el jugador puede consumir toda la rabia y ser imparable durante un tiempo.</li>
+<li>Cuando el jugador derrota a todos los enemigos de la zona, al ultimo le realiza un fatality en camara lenta.</li>
+</ul>
+</blockquote>
+
+<p>Asi que teniendo todas las mecanicas pensadas, habria que ver si entran en un controller, que con pc no habria problema pero al ser un controller de mando, hay que crear una pequeña tabla.</p>
+
+<table>
+<thead>
+<tr>
+<th>Boton</th>
+<th>Accion</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>A</td>
+<td>Salto</td>
+</tr>
+
+<tr>
+<td>B</td>
+<td>Ataque Distancia</td>
+</tr>
+
+<tr>
+<td>Y</td>
+<td>Ataque Fuerte</td>
+</tr>
+
+<tr>
+<td>X</td>
+<td>Ataque Rapido</td>
+</tr>
+
+<tr>
+<td>RB</td>
+<td>Fijar Objetivo</td>
+</tr>
+
+<tr>
+<td>RT</td>
+<td>Esquivar</td>
+</tr>
+
+<tr>
+<td>LB</td>
+<td>Cambio</td>
+</tr>
+
+<tr>
+<td>LT</td>
+<td>Bloquear</td>
+</tr>
+
+<tr>
+<td>Start</td>
+<td>Menu</td>
+</tr>
+
+<tr>
+<td>Back</td>
+<td>Habilidades</td>
+</tr>
+
+<tr>
+<td>Stick derecho</td>
+<td>Mover Camara</td>
+</tr>
+
+<tr>
+<td>Stick Izquierdo</td>
+<td>Mover Personaje</td>
+</tr>
+</tbody>
+</table>
+
+<p>Ahora como objetivo, me queria enfocar mas al tema <strong>Nier : Automata</strong>, se asemeja mucho a Devil May Cry, pero es mucho mas rapido e intuitivo, realmente nier esta pensado para una lucha rapida y tactica en su nivel normal, de lo que me e dado cuenta es que DMC en su nivel normal es simplemente atacar atacar y mas atacar.</p>
+
+<p>En esta parte entrare mas adelante, ya que creo que tiene mucho que ver la combinacion de ataques y la IA de los diferentes enemigos, por lo que se nos sale de lo que quiero tener para el miercoles.</p>
+
+<p>.Save</p>
+
+	</section>
+    </div>
+
+    <footer class="site-footer">
+	<p class="text">&copy; 2017 - © lPinchol Moon.<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89564434-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+</body>
+</html>
