@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="es-es">
+<head>
+	<title>Explicacion IA basica&middot; lPinchol Moon&#39;s Blog</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="lPinchol, Moon">
+	<meta name="description" content="un blog sobre mi, juegos, desarrollo y anime">
+	<meta name="keywords" content="Moon,Pincho,Dev">
+	<meta name="generator" content="Hugo 0.17" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://lpinchol.github.io/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="http://lpinchol.github.io/favicon.ico" type="image/x-icon">
+
+	<!-- RSS -->
+	
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <header class="site-header">
+	<div class="branding">
+		<a href="http://lpinchol.github.io/">
+		<img class="avatar" src="http://lpinchol.github.io/img/avatar.png" alt=""/>
+		</a>
+		<h1 class="site-title">
+			<a href="http://lpinchol.github.io/">lPinchol Moon&#39;s Blog</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+	      	<li><a href="/about/"> About </a></li>
+
+	      	<li>
+	<a href="http://lpinchol.github.io/" title="">
+		<i class="fa fa-fw fa-home"></i>
+	</a>
+</li>
+
+<li>
+	<a href="http://lpinchol.github.io/index.xml" title="Subscribirte">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li>
+	<a href="mailto:moon@lpinchol.xyz" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="https://bitbucket.org/lPinchol" title="Bitbucket">
+		<i class="fa fa-fw fa-bitbucket"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://github.com/lPinchol" title="GitHub">
+		<i class="fa fa-fw fa-github"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    </ul>
+	</nav>
+</header>
+
+
+    <div class="content">
+    <article class="feature-image">
+		<header style="background-image: url('http://lpinchol.github.io/img/bg.png')">
+			<h1 class="title">Explicacion IA basica</h1>
+		</header>
+
+	<section class="post-content">
+		
+
+<h1 id="ia-en-videojuegos-clase">IA en Videojuegos (Clase)</h1>
+
+<p>Hay diferentes tipos de IA clasificados por el tipo de uso de su algoritmo.</p>
+
+<p>Los mas comunes en videojuegos son:</p>
+
+<ul>
+<li>Juegos de suma cero: Minimax</li>
+<li>Busqueda de caminos: A*</li>
+<li>Agentes inteligentes</li>
+<li>Maquina de estados finitos</li>
+<li>Redes neutonales</li>
+<li>Algoritmos geneticos</li>
+<li>Redes evolutivas: rtNeat</li>
+</ul>
+
+<hr />
+
+<p>Juegos de suma cero son juegos en los que solo tienen 2 resultados, o 3.
+Como por ejemplo el ajedrez, Minimax es un algoritmo para realizar la eleccion de la mejor accion para ganar.</p>
+
+<p>Algoritmo Minimax: se basa en probar todas las posibles jugadas y sus respuestas hasta un nivel maximo.(Tic Tac Toe)</p>
+
+<p>El algoritmo responde con la mejor jugada posible suponiendo que el adversario tambien elige su mejor jugada.</p>
+
+<p>El termino poda alfa-beta es como bien dice la poda de ramas del arbol de eleccion para ahorrar tiempo y memoria de computacion.</p>
+
+<hr />
+
+<p>Busqueda de caminos, A* es el algoritmo para que un objeto encuentre el camino y lo siga a voluntad.</p>
+
+<p>Este tipo de algoritmos se llaman pathfinding.</p>
+
+<p>Son algoritmos que buscan un camino existente entre un nodo inicial y un nodo final de un grafo.</p>
+
+<p>Se tienen en cuenta un coste entre nodos ( distancia, dificultad de l terreno).</p>
+
+<p>Algoritmos tipicos: Dijkstra, escalada, primero el mejor, A*</p>
+
+<hr />
+
+<p>Agentes inteligentes son algoritmos que cambian segun el estado del entorno.</p>
+
+<p>Un agente inteligente es una entidad que percibe y actua sobre un entorno de forma razonada.</p>
+
+<p>Las propiedades de un agente inteligente son:</p>
+
+<ul>
+<li>Autonomia: actual por su cuenta propia.</li>
+<li>Inteligencia: cerrada o adaptable (Apendizaje)</li>
+<li>Actividad Reactiva: actua despues de algun suceso producido en el entorno.</li>
+<li>Actividad Proactivo: decide actuar antes de que se de un suceso.</li>
+<li>Sociabilidad: Cooperar con los aliados o ayudar sin que nos pidan ayuda.</li>
+</ul>
+
+<hr />
+
+<p>Una maquina de estados finitos (SFM) es una entidad abstracta formada por estados y transiciones entre dichos estados.</p>
+
+<p>Cada estado representa una accion: moverse, disparar, perseguir &hellip;</p>
+
+<p>Cuando se produce un evento, hay una transicion de un estado a otro: no hay enemigos, moverse, poca municion, etc&hellip;</p>
+
+<hr />
+
+<p>Una red de neuronas artificiales (RNA) es un sistema computacional que imita las capacidades de los sistemas biologicos utilizando muchos elementos simples interconectados.</p>
+
+<ul>
+<li>Clasifica patrones de entrada.</li>
+<li>Necesitan entrenamiento supervisado con muchos ejemplos.</li>
+<li>Son capaces de generalizar el reconocimiento de patrones.</li>
+<li>Una vez entrenadas, funcionan en tiempo real.</li>
+</ul>
+
+<p>\.Moon Pincho</p>
+
+	</section>
+    </div>
+
+    <footer class="site-footer">
+	<p class="text">&copy; 2017 - © lPinchol Moon.<br>Powered by <a href="//gohugo.io/">Hugo</a> with the <a href="//github.com/digitalcraftsman/hugo-type-theme">Type Theme</a></p>
+</footer>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-89564434-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+</body>
+</html>

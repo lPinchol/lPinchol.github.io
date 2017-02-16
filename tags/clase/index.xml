@@ -10,6 +10,92 @@
     <atom:link href="http://lpinchol.github.io/tags/clase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Explicacion IA basica</title>
+      <link>http://lpinchol.github.io/post/explicacion-ia-clase/</link>
+      <pubDate>Thu, 16 Feb 2017 11:06:45 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/explicacion-ia-clase/</guid>
+      <description>
+
+&lt;h1 id=&#34;ia-en-videojuegos-clase&#34;&gt;IA en Videojuegos (Clase)&lt;/h1&gt;
+
+&lt;p&gt;Hay diferentes tipos de IA clasificados por el tipo de uso de su algoritmo.&lt;/p&gt;
+
+&lt;p&gt;Los mas comunes en videojuegos son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Juegos de suma cero: Minimax&lt;/li&gt;
+&lt;li&gt;Busqueda de caminos: A*&lt;/li&gt;
+&lt;li&gt;Agentes inteligentes&lt;/li&gt;
+&lt;li&gt;Maquina de estados finitos&lt;/li&gt;
+&lt;li&gt;Redes neutonales&lt;/li&gt;
+&lt;li&gt;Algoritmos geneticos&lt;/li&gt;
+&lt;li&gt;Redes evolutivas: rtNeat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Juegos de suma cero son juegos en los que solo tienen 2 resultados, o 3.
+Como por ejemplo el ajedrez, Minimax es un algoritmo para realizar la eleccion de la mejor accion para ganar.&lt;/p&gt;
+
+&lt;p&gt;Algoritmo Minimax: se basa en probar todas las posibles jugadas y sus respuestas hasta un nivel maximo.(Tic Tac Toe)&lt;/p&gt;
+
+&lt;p&gt;El algoritmo responde con la mejor jugada posible suponiendo que el adversario tambien elige su mejor jugada.&lt;/p&gt;
+
+&lt;p&gt;El termino poda alfa-beta es como bien dice la poda de ramas del arbol de eleccion para ahorrar tiempo y memoria de computacion.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Busqueda de caminos, A* es el algoritmo para que un objeto encuentre el camino y lo siga a voluntad.&lt;/p&gt;
+
+&lt;p&gt;Este tipo de algoritmos se llaman pathfinding.&lt;/p&gt;
+
+&lt;p&gt;Son algoritmos que buscan un camino existente entre un nodo inicial y un nodo final de un grafo.&lt;/p&gt;
+
+&lt;p&gt;Se tienen en cuenta un coste entre nodos ( distancia, dificultad de l terreno).&lt;/p&gt;
+
+&lt;p&gt;Algoritmos tipicos: Dijkstra, escalada, primero el mejor, A*&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Agentes inteligentes son algoritmos que cambian segun el estado del entorno.&lt;/p&gt;
+
+&lt;p&gt;Un agente inteligente es una entidad que percibe y actua sobre un entorno de forma razonada.&lt;/p&gt;
+
+&lt;p&gt;Las propiedades de un agente inteligente son:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Autonomia: actual por su cuenta propia.&lt;/li&gt;
+&lt;li&gt;Inteligencia: cerrada o adaptable (Apendizaje)&lt;/li&gt;
+&lt;li&gt;Actividad Reactiva: actua despues de algun suceso producido en el entorno.&lt;/li&gt;
+&lt;li&gt;Actividad Proactivo: decide actuar antes de que se de un suceso.&lt;/li&gt;
+&lt;li&gt;Sociabilidad: Cooperar con los aliados o ayudar sin que nos pidan ayuda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Una maquina de estados finitos (SFM) es una entidad abstracta formada por estados y transiciones entre dichos estados.&lt;/p&gt;
+
+&lt;p&gt;Cada estado representa una accion: moverse, disparar, perseguir &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Cuando se produce un evento, hay una transicion de un estado a otro: no hay enemigos, moverse, poca municion, etc&amp;hellip;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Una red de neuronas artificiales (RNA) es un sistema computacional que imita las capacidades de los sistemas biologicos utilizando muchos elementos simples interconectados.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clasifica patrones de entrada.&lt;/li&gt;
+&lt;li&gt;Necesitan entrenamiento supervisado con muchos ejemplos.&lt;/li&gt;
+&lt;li&gt;Son capaces de generalizar el reconocimiento de patrones.&lt;/li&gt;
+&lt;li&gt;Una vez entrenadas, funcionan en tiempo real.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\.Moon Pincho&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Seguimiento Audiovisual Final</title>
       <link>http://lpinchol.github.io/post/seguimiento-audiovisual/</link>
       <pubDate>Tue, 31 Jan 2017 17:05:10 +0100</pubDate>
