@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/categories/ia/index.xml</link>
+    <description>Recent content on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <atom:link href="http://lpinchol.github.io/categories/ia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conceptos desarrollo IA</title>
+      <link>http://lpinchol.github.io/post/desarrollando-ia-concepts/</link>
+      <pubDate>Mon, 20 Feb 2017 12:52:11 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/desarrollando-ia-concepts/</guid>
+      <description>
+
+&lt;h1 id=&#34;robot-roomba&#34;&gt;Robot Roomba:&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Sensores:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;FindDirtyPlaces: Retorna un conjunto de objetos marcados como &amp;ldquo;Suciedad&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;LectorSuciedad: Indica el tipo de suciedad en la posicion actual.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Pensamiento:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;suciedad.false -&amp;gt; MoverBuscar()&lt;/p&gt;
+
+&lt;p&gt;suciedad.true -&amp;gt; Aspirar()&lt;/p&gt;
+
+&lt;p&gt;suciedad.true -&amp;gt; Bayeta()&lt;/p&gt;
+
+&lt;p&gt;suciedad.true -&amp;gt; Bocina()&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Actuadores:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Aspirador&lt;/p&gt;
+
+&lt;p&gt;Bayeta&lt;/p&gt;
+
+&lt;p&gt;bocina&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hay una definicion para una maxificacion de IA: se llama PEAS.&lt;/p&gt;
+
+&lt;p&gt;P -&amp;gt; Performance : Rendimiento : Limpieza y eficiencia.&lt;/p&gt;
+
+&lt;p&gt;E -&amp;gt; Environment : Entorno : Habitaciones y mesas.&lt;/p&gt;
+
+&lt;p&gt;A -&amp;gt; Actuators : Herramientas : Cepillo y fregona.&lt;/p&gt;
+
+&lt;p&gt;S -&amp;gt; Sensors : Lasers : Infrarojos.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
