@@ -10,6 +10,55 @@
     <atom:link href="http://lpinchol.github.io/tags/moon-pincho/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MDevScripts y por que.</title>
+      <link>http://lpinchol.github.io/post/m-dev-script/</link>
+      <pubDate>Tue, 21 Feb 2017 17:36:56 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/m-dev-script/</guid>
+      <description>
+
+&lt;h1 id=&#34;por-que-publicar-algo-tan-sencillo&#34;&gt;¿Por que publicar algo tan sencillo?&lt;/h1&gt;
+
+&lt;p&gt;Bueno, simplemente para poder hacer rapidamente funcionalidades sin tener que crear scripts nuevos y sin tener que arbitrar entre la solucion mas optima, ya que es un prototipado lo que primero se hace.&lt;/p&gt;
+
+&lt;p&gt;Por ello uso estos scripts, que hacen que por ejemplo el environment se cree rapidamente y asi concentrarme en la mecanica que en si es la que mas trabajo lleva de un prototipo.&lt;/p&gt;
+
+&lt;p&gt;Esto como ya digo es algo complementario y esta claro que se puede hacer mucho mejor, pero solo e creado una base de la que se puede seguir incorporando nuevas funcionalidades abiertas para nuevos desafios.&lt;/p&gt;
+
+&lt;p&gt;De momento solo se han creado 3 scripts basicos, pero aun hay muchos por llegar: &lt;a href=&#34;https://github.com/MOON-TYPE/MDevScripts/projects/1&#34; class=&#34;button&#34;&gt;Proximas incorporaciones.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Actualmente hay:&lt;/p&gt;
+
+&lt;h2 id=&#34;scripts&#34;&gt;Scripts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AutoDestroy.cs&lt;/strong&gt; | Autodestruye un objeto.
+&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/autodest.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AutoIntensidadLight.cs&lt;/strong&gt; | Auto aumenta y disminuye la intensidad de la luz.
+&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/autoint.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AutoMove.cs&lt;/strong&gt; | Mueve un objeto de un punto A(Actual) a un punto B(Destino).
+&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/automov.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://github.com/MOON-TYPE/MDevScripts&#34; class=&#34;button&#34;&gt;Proyecto GitHub.&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;\- Moon Pincho&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Conceptos desarrollo IA</title>
       <link>http://lpinchol.github.io/post/desarrollando-ia-concepts/</link>
       <pubDate>Mon, 20 Feb 2017 12:52:11 +0100</pubDate>
@@ -1035,50 +1084,6 @@ Como por ejemplo, la escena de Alexandria seria para las pruebas de composicion 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;center&gt;Samus metroid, epica ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Escribiendo sobre metodologia de la investigacion</title>
-      <link>http://lpinchol.github.io/post/escribiendo-sobre-metodologia-de-la-investigacion/</link>
-      <pubDate>Fri, 27 Jan 2017 17:18:05 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/escribiendo-sobre-metodologia-de-la-investigacion/</guid>
-      <description>&lt;p&gt;Aqui entro hoy con el tema de la asignatura metodologia de la investigacion, que por lo visto se hace en los 3 años sin fuste ninguno.&lt;/p&gt;
-
-&lt;p&gt;Claro que es importante la &lt;strong&gt;investigacion&lt;/strong&gt;, pero esta claro que es una asignatura de relleno, ya que todo lo dado en estos tres años se ubiera podido resumir en un año y tener la posibilidad de incorporar otras nuevas asignaturas que se han visto afectadas por la falta de tiempo, pero no entrare en el tema de si sigue verde el grado o si no.&lt;/p&gt;
-
-&lt;p&gt;Actualmente tenemos que crear una documentacion completa sobre como investigar un videojuego que queramos crear.&lt;/p&gt;
-
-&lt;p&gt;Por lo que e estado mirando de momento, lo tengo claro:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Investigacion general sobre el proyecto.&lt;/li&gt;
-&lt;li&gt;Referencias, hardware, analisis de mercado, plan de negocios, marketing.&lt;/li&gt;
-&lt;li&gt;DDJ&lt;/li&gt;
-&lt;li&gt;Autocritica&lt;/li&gt;
-&lt;li&gt;Bibliografia&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;En resumidas cuentas, esos son los puntos que me tocara exponer.&lt;/p&gt;
-
-&lt;p&gt;Basicamente le defino el proyecto dandole unos datos de mercado viables de paginas especificas con mucho recorrido, para dar poder al argumento de mi articulo.&lt;/p&gt;
-
-&lt;p&gt;Luego le hare un estudio del hardware necesario y por que creo y demuestro que mediante mi investigacion el cliente al que va dirigido el videojuego necesitara estos requisitos minimos para poder mover el juego.&lt;/p&gt;
-
-&lt;p&gt;Ahora estoy explicando, que metodologia de gestion de proyectos vamos a usar y por que.&lt;/p&gt;
-
-&lt;p&gt;Realmente siempre e usado SCRUM, no conozco ninguna nueva, por lo que investigare otras alternativas, por si van mejor con el foco de trabajo que tenemos por delante. Esta claro que aunque este acostumbrado a SCRUM, no voy a dejar pasar la experiencia de usar otra metodologia si conviene mas al equipo.&lt;/p&gt;
-
-&lt;p&gt;Terminado esto, lo siguiente es hablarle de los diferentes tipos de control de versiones para codigo y los programas de comunicacion como Slack. Con eso terminariamos y empezariamos con la parte de plan de negocios y Marketing, que creo que sera lo que mas le interese de todo el documento.&lt;/p&gt;
-
-&lt;p&gt;Ahora finalizado el tema general, voy a introducir dos o tres paginas sobre el DDJ para entrar en dentro del ambiente.&lt;/p&gt;
-
-&lt;p&gt;Despues simplemente creare una autocritica con los puntos fuertes y flojos que creo que e tenido dentro de la practica y haber si hay suerte y me deja enviarselo antes del dia de la entrega para que me lo revise bien y asi poder tener un visto y reset antes de la exposicion.&lt;/p&gt;
-
-&lt;p&gt;Veremos el martes lo que pasa ^^.&lt;/p&gt;
 </description>
     </item>
     
