@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/categories/github/index.xml</link>
+    <description>Recent content on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <atom:link href="http://lpinchol.github.io/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Unity3D Preloader [Logo]</title>
+      <link>http://lpinchol.github.io/post/script-preloader-unity3d/</link>
+      <pubDate>Wed, 22 Feb 2017 23:39:42 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/script-preloader-unity3d/</guid>
+      <description>
+
+&lt;h1 id=&#34;unity-preloader&#34;&gt;Unity Preloader&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Escena de preloader en Unity3D con varios ejemplos. Se puede usar plugins como NGUI o si lo prefieres el mismo UGUI.&lt;/p&gt;
+
+&lt;p&gt;Esta version esta probada para &lt;strong&gt;Unity3D 5.5.1p4&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;El planteamiento era que el logo siguiente, hiciera un fade-in y un fade-out en un tiempo.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/preloader0.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;antes-de-empezar&#34;&gt;Antes de empezar:&lt;/h2&gt;
+
+&lt;p&gt;Para &lt;strong&gt;&lt;em&gt;UGUI&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Solo tienes que entrar a la escena de ejemplo(SandBox) y reproducir.&lt;/p&gt;
+
+&lt;p&gt;Para &lt;strong&gt;&lt;em&gt;NGUI&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Si se va a usar con NGUI, importar primero el plugin de NGUI y despues el package de u.preloader, sino podras tener errores en las escenas de los ejemplos.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;En la definicion de simbolos (Scripting Define Symbols), hay que definirle NGUI para que reconozca que tienes NGUI en tu proyecto.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/preloader1.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Por ultimo solo tienes que desactivar el Canvas y activar el RootUI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/preloader2.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;acabado&#34;&gt;Acabado&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/github/preloader3.gif&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;assets&#34;&gt;Assets:&lt;/h2&gt;
+
+&lt;p&gt;La imagen del logo de prueba es de &lt;a href=&#34;http://www.pixiv.net/member.php?id=2243289&#34;&gt;ナダレ&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;repositorio&#34;&gt;Repositorio&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://github.com/lPinchol/u.preloader&#34; class=&#34;button&#34;&gt;Moon Pincho Github&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
