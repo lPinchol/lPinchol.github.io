@@ -10,6 +10,15 @@
     <atom:link href="http://lpinchol.github.io/categories/moon-pincho/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>case study test</title>
+      <link>http://lpinchol.github.io/post/case-study-test/</link>
+      <pubDate>Thu, 23 Feb 2017 23:47:55 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/case-study-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pintura Del Dia -23-02-2017-</title>
       <link>http://lpinchol.github.io/post/Pintura-Del-Dia-23-02-2017/</link>
       <pubDate>Thu, 23 Feb 2017 23:27:58 +0100</pubDate>
@@ -1023,103 +1032,6 @@ Por ejemplo, supongamos que tienes una categoria de BUG.&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/Wx24D&#34; class=&#34;button&#34;&gt;yue yue&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;\- Moon Pincho&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Primera reunion sobre el TFG</title>
-      <link>http://lpinchol.github.io/post/primera-reunion-tfg/</link>
-      <pubDate>Mon, 06 Feb 2017 15:47:25 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/primera-reunion-tfg/</guid>
-      <description>
-
-&lt;h1 id=&#34;ambiente&#34;&gt;Ambiente&lt;/h1&gt;
-
-&lt;p&gt;Algunos puntos a destacar  sobre el ambiente:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Realidad aumentada.&lt;/li&gt;
-&lt;li&gt;Arboles holografiados &lt;a href=&#34;https://www.artstation.com/artwork/nvLa4&#34;&gt;Muscan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://cdnb.artstation.com/p/assets/images/images/003/387/951/large/mihai-muscan-1.jpg?1473170024&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Neonizada &lt;a href=&#34;https://www.artstation.com/artwork/3dN9E&#34;&gt;Wadim&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://cdnb.artstation.com/p/assets/images/images/000/434/113/large/wadim-kashin-cyberpunk2.jpg?1422308666&#34; alt=&#34;002&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Muy vivo&lt;a href=&#34;https://www.artstation.com/artwork/OP238&#34;&gt;Bravo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://cdna.artstation.com/p/assets/images/images/002/958/960/large/victor-bravo-tuk-tuk3.jpg?1467766031&#34; alt=&#34;003&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Realismo &lt;a href=&#34;https://www.artstation.com/artwork/z9KR6&#34;&gt;Touho&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://cdnb.artstation.com/p/assets/images/images/004/572/977/large/t-h-fire-strike-05.jpg?1484677987&#34; alt=&#34;004&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Variacion de profundida &lt;a href=&#34;https://www.artstation.com/artwork/z9KR6&#34;&gt;Touho&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://cdnb.artstation.com/p/assets/images/images/004/572/977/large/t-h-fire-strike-05.jpg?1484677987&#34; alt=&#34;004&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;datos-tecnicos&#34;&gt;Datos tecnicos&lt;/h1&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Edificios:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;LOD desde 2 planta hacia arriba.&lt;/p&gt;
-
-&lt;p&gt;3 Tipos de LOD.&lt;/p&gt;
-
-&lt;p&gt;3 tipos generales y props para modular.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Circulacion:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Coches solo vuelan por arriba.&lt;/p&gt;
-
-&lt;p&gt;Pasos de cebra para los peatones.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Especificaciones:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Publicidad holografica (AR).&lt;/p&gt;
-
-&lt;p&gt;Mucho Rascacielos.&lt;/p&gt;
-
-&lt;p&gt;Barrios bajos.&lt;/p&gt;
-
-&lt;p&gt;Carpas&lt;/p&gt;
-
-&lt;p&gt;Mucho cableado, tuverias y ventiladores.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ciudad superpoblada, debajo los sectores pobres y con forme subes a la parte superior, la nobleza o la zona mas rica.&lt;/p&gt;
-
-&lt;p&gt;Minimo de ancho de 6 metros.&lt;/p&gt;
-
-&lt;h1 id=&#34;finalidad&#34;&gt;Finalidad&lt;/h1&gt;
-
-&lt;p&gt;Resultado en &lt;a href=&#34;https://www.youtube.com/watch?v=5hcJbQuWv0U&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
