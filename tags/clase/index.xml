@@ -10,6 +10,51 @@
     <atom:link href="http://lpinchol.github.io/tags/clase/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Configuracion de Visor de Maya (Clase Animacion)</title>
+      <link>http://lpinchol.github.io/post/config-visor-maya/</link>
+      <pubDate>Thu, 23 Feb 2017 13:10:35 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/config-visor-maya/</guid>
+      <description>
+
+&lt;h1 id=&#34;configuracion-del-visor-de-maya&#34;&gt;Configuracion del visor de Maya&lt;/h1&gt;
+
+&lt;p&gt;Cada visor, tiene en el menu renderer tiene 3 tipos.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Viewport 2.0&lt;/strong&gt;: Se comporta como lo hace un motor grafico, con el mismo detalle y calidad, es bastante bueno.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/visorMaya001.jpg&#34; alt=&#34;img1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las opciones que tiene el viewport:&lt;/p&gt;
+
+&lt;p&gt;Son opciones para el tema de sombras, renderizado, calculo de grafica, efectos de imagen, niebla, nodos y atributos extra.&lt;/p&gt;
+
+&lt;p&gt;Ej: Motion Blur crea un desenfoque en diferentes movimientos.
+Ej: Anti-aliasing suaviza el perfil de los modelos para que no se note la sierra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Legacy Default&lt;/strong&gt;: Es el por defecto, con niveles normales, normalmente no se trabaja con el en la animacion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Legacy Hight&lt;/strong&gt;: Es la propuesta para la mayor calidad.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/visorMaya002.jpg&#34; alt=&#34;img2&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;.- Moon Pincho&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Conceptos desarrollo IA</title>
       <link>http://lpinchol.github.io/post/desarrollando-ia-concepts/</link>
       <pubDate>Mon, 20 Feb 2017 12:52:11 +0100</pubDate>

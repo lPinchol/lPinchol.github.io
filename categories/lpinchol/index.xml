@@ -10,6 +10,51 @@
     <atom:link href="http://lpinchol.github.io/categories/lpinchol/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Configuracion de Visor de Maya (Clase Animacion)</title>
+      <link>http://lpinchol.github.io/post/config-visor-maya/</link>
+      <pubDate>Thu, 23 Feb 2017 13:10:35 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/config-visor-maya/</guid>
+      <description>
+
+&lt;h1 id=&#34;configuracion-del-visor-de-maya&#34;&gt;Configuracion del visor de Maya&lt;/h1&gt;
+
+&lt;p&gt;Cada visor, tiene en el menu renderer tiene 3 tipos.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Viewport 2.0&lt;/strong&gt;: Se comporta como lo hace un motor grafico, con el mismo detalle y calidad, es bastante bueno.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/visorMaya001.jpg&#34; alt=&#34;img1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las opciones que tiene el viewport:&lt;/p&gt;
+
+&lt;p&gt;Son opciones para el tema de sombras, renderizado, calculo de grafica, efectos de imagen, niebla, nodos y atributos extra.&lt;/p&gt;
+
+&lt;p&gt;Ej: Motion Blur crea un desenfoque en diferentes movimientos.
+Ej: Anti-aliasing suaviza el perfil de los modelos para que no se note la sierra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Legacy Default&lt;/strong&gt;: Es el por defecto, con niveles normales, normalmente no se trabaja con el en la animacion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Legacy Hight&lt;/strong&gt;: Es la propuesta para la mayor calidad.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/clases/visorMaya002.jpg&#34; alt=&#34;img2&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;.- Moon Pincho&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unity3D Preloader [Logo]</title>
       <link>http://lpinchol.github.io/post/script-preloader-unity3d/</link>
       <pubDate>Wed, 22 Feb 2017 23:39:42 +0100</pubDate>
@@ -1093,47 +1138,6 @@ Por ejemplo, supongamos que tienes una categoria de BUG.&lt;/p&gt;
 &lt;p&gt;Me gusto mucho la idea y las personas que formabamos el grupo. ¿Pero saldra bien? Espero que si, de momento, poner todo lo que tengo en este proyecto para dar lo mejor de uno.&lt;/p&gt;
 
 &lt;p&gt;Espero que todo salga bien. ^^&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seguimiento Audiovisual Final</title>
-      <link>http://lpinchol.github.io/post/seguimiento-audiovisual/</link>
-      <pubDate>Tue, 31 Jan 2017 17:05:10 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/seguimiento-audiovisual/</guid>
-      <description>
-
-&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Despues de estudiar y ramificar toda la estructura de la historia del &lt;strong&gt;tartaro&lt;/strong&gt; (Origen, grecia, actualidad). Se desarrollan las tecnicas aprendidas y el estilo de metodologia para el proyecto en si.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Cuando &lt;strong&gt;por fin&lt;/strong&gt; llegamos al tema de la creacion del proyecto, creo que es mejor empezar resumiendo un poco cada punto del apartado, para que sea como un mini indice, asi tener las cosas mas claras.&lt;/p&gt;
-
-&lt;p&gt;Luego en la creacion del proyecto, lo bueno es seguir con la presentacion del git y los ajustes del proyecto. Terminando con los ajustes generales de graficos y entorno.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;1º    Estructuracion del proyecto.
-2º    Metodologia de uso.
-3º    Settings del player.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Despues definiriamos la composicion de las escenas y las pruebas realizadas en ellas.
-Como por ejemplo, la escena de Alexandria seria para las pruebas de composicion de modulos, escalas o la preparacion de la camara.&lt;/p&gt;
-
-&lt;p&gt;Ahora la previsualizacion de todas las escenas.&lt;/p&gt;
-
-&lt;p&gt;Luego iluminacion y efectos de camara.&lt;/p&gt;
-
-&lt;p&gt;y una pequeña conclusion junto la autocritica y la bibliografia.&lt;/p&gt;
-
-&lt;p&gt;^&lt;/p&gt;
 </description>
     </item>
     
