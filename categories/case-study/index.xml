@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lPinchol Moon&#39;s Blog</title>
+    <link>http://lpinchol.github.io/categories/case-study/index.xml</link>
+    <description>Recent content on lPinchol Moon&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
+    <atom:link href="http://lpinchol.github.io/categories/case-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Preparacion M</title>
+      <link>http://lpinchol.github.io/post/case-study-test/</link>
+      <pubDate>Thu, 23 Feb 2017 23:47:55 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/case-study-test/</guid>
+      <description>
+
+&lt;h1 id=&#34;preparacion-m&#34;&gt;Preparacion M&lt;/h1&gt;
+
+&lt;p&gt;Visualmente es todo minimalista, de ahi el concepto de que las imagenes sean minimalistas.&lt;/p&gt;
+
+&lt;p&gt;La pantalla de Inicio se usaria simplemente para cargar los datos genericos para todo. Un simple touch y al game. Antes de ello, el idioma y los datos necesarios.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;En el Game, principalmente seria el mundo. Con unas opciones donde te saliera todo. En la primera pantalla te saldria el tutorial.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/case/case001.png&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;En el mundo tendrias que ir desbloqueando zonas para seguir pasando y subir niveles.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Las imagenes serian con permiso de sus dueños, de :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://lucifer012.deviantart.com/gallery/&#34;&gt;Lucifer012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://matsumayu.deviantart.com/gallery/&#34;&gt;Matsumayu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://greenmapple17.deviantart.com/gallery/&#34;&gt;Greenmapple17&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fikrimochizou.deviantart.com/gallery/&#34;&gt;FikriMochizou&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Las mecanicas serian simples, sobran las palabras.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/case/case002.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;La cosa seria crear un editor, para que la creacion de los diferentes niveles sea mas dinamico. Algo como esto =&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/case/case003.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;\- Moon Pincho&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
