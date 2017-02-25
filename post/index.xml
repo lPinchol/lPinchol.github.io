@@ -7,8 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>© lPinchol Moon.&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
-    <lastBuildDate>Thu, 23 Feb 2017 23:47:55 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Feb 2017 17:23:20 +0100</lastBuildDate>
     <atom:link href="http://lpinchol.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Efecto Camara Shake en Unity3D</title>
+      <link>http://lpinchol.github.io/post/efectocamara-shake/</link>
+      <pubDate>Sat, 25 Feb 2017 17:23:20 +0100</pubDate>
+      
+      <guid>http://lpinchol.github.io/post/efectocamara-shake/</guid>
+      <description>
+
+&lt;h1 id=&#34;efecto-de-camara-shake&#34;&gt;Efecto de camara shake.&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Efecto basico de sacudida en la camara desarrollado en Unity3D.
+Un pequeño efecto, que puede ser llamado en cualquier momento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://lpinchol.github.io/img/gif/006.gif&#34; alt=&#34;006&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Preparacion M</title>
@@ -1053,28 +1072,6 @@ Por ejemplo, supongamos que tienes una categoria de BUG.&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/kB0Xy&#34; class=&#34;button&#34;&gt;Vadim Bakhlychev&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;- Moon Pincho&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pintura Del Dia -06-02-2017-</title>
-      <link>http://lpinchol.github.io/post/Pintura-Del-Dia-06-02-2017/</link>
-      <pubDate>Tue, 07 Feb 2017 18:47:02 +0100</pubDate>
-      
-      <guid>http://lpinchol.github.io/post/Pintura-Del-Dia-06-02-2017/</guid>
-      <description>
-
-&lt;h1 id=&#34;center-imagen-del-dia-06-02-2017-center-br&#34;&gt;&lt;center&gt;Imagen del dia [06.02.2017]&lt;/center&gt;&lt;/br&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img src=&#34;http://lpinchol.github.io/img/pinturadia/37.jpg&#34; alt=&#34;001&#34; /&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;center&gt;Una Sorcerer dragona, con un acabado muy bueno a mi gusto. ^^&lt;/center&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;a href=&#34;https://www.artstation.com/artwork/Wx24D&#34; class=&#34;button&#34;&gt;yue yue&lt;/a&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;\- Moon Pincho&lt;/p&gt;
 </description>
     </item>
     
